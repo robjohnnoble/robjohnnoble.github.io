@@ -34,7 +34,7 @@ For solid tumours, I have used computational modelling to assess when, why and h
 This work informs the search for new prognostic biomarkers and contributes to establishing a theoretical foundation for the new field of predictive oncology.
 
 I am now working towards models that can forecast the evolution of realistically large, heterogeneous tumours. 
-This inlcudes using diffusion approximations and other methods from statistical physics and population genetics to describe how clonal expansion speeds depend on key biological parameters, and using machine-learning methods to infer patient-specific parameter values from clinical data.
+This includes using diffusion approximations and other methods from statistical physics and population genetics to describe how clonal expansion speeds depend on key biological parameters, and using machine-learning methods to infer patient-specific parameter values from clinical data.
 
 # Evolutionarily-informed cancer therapy
 
