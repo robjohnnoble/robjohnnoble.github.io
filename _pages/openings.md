@@ -19,6 +19,6 @@ I'm looking for students who have (or will soon have) a good honours degree in m
 
 Interested candidates should email me a cover letter (one page), CV, transcripts, and the names of two references.
 
-The positions will remain available until filled, with an initial application deadline of 5th May 2020.
+The positions will remain available until filled, with an initial application deadline of 5th June 2020.
 
 The preferred starting date is October 2020.
