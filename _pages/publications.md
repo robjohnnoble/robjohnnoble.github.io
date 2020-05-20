@@ -7,7 +7,7 @@ author_profile: true
 
 ## As first or co-first author
 
-* **Noble R<code>&ast;</code>**, Burley JT<code>&ast;</code>, Le Sueur C, Hochberg ME (* equal contributions)
+* **Noble R&ast;**, Burley JT&ast;, Le Sueur C, Hochberg ME (* equal contributions)
 When, why and how clonal diversity predicts future tumour growth
 (in revision)
 
@@ -15,11 +15,11 @@ When, why and how clonal diversity predicts future tumour growth
 Spatial structure governs the mode of tumour evolution
 (in revision)
 
-*	Bacevic K<code>&ast;</code>, **Noble R<code>&ast;</code>**, Soffar A, Ammar OW, Boszonyik B, Prieto S, Vincent C, Hochberg ME, Krasinska L, Fisher D
+*	Bacevic K&ast;, **Noble R&ast;**, Soffar A, Ammar OW, Boszonyik B, Prieto S, Vincent C, Hochberg ME, Krasinska L, Fisher D
 Spatial competition constrains resistance to targeted cancer therapy
 Nature Commun. (2017) 8, 1995
 
-* Vasse M*, **Noble R**, Akhmetzhanov AR, Torres-Barceló C, Gurney J, Simon Benateau, Gougat-Barbera C, Kaltz O, Hochberg ME
+* Vasse M&ast;, **Noble R&ast;**, Akhmetzhanov AR, Torres-Barceló C, Gurney J, Simon Benateau, Gougat-Barbera C, Kaltz O, Hochberg ME
 Antibiotic stress selects against cooperation in the pathogenic bacterium Pseudomonas aeruginosa
 PNAS (2017) 114, 546-51
 
@@ -31,7 +31,7 @@ Cancer Prev. Res. (2016) 9, 773-6
 Peto's paradox and human cancers
 Phil. Trans. B (2015) 370, 20150104
 
-* **Noble R<code>&ast;</code>**, Christodoulou Z<code>&ast;</code>, Pinches R, Kyes S, Recker M, Newbold CI
+* **Noble R&ast;**, Christodoulou Z&ast;, Pinches R, Kyes S, Recker M, Newbold CI
 The antigenic switching network of Plasmodium falciparum and its implications for the immuno-epidemiology of malaria
 eLife (2013) 2013.2:e01074
 
@@ -39,7 +39,7 @@ eLife (2013) 2013.2:e01074
 A statistically rigorous method for determining antigenic switching networks
 PLoS ONE (2012) 7, e39335
 
-(<code>&ast;</code> denotes equal contributions)
+(&ast; denotes equal contributions)
 
 ## Other publications
 
