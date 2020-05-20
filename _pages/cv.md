@@ -23,4 +23,4 @@ Education and work experience
 
 1999-2003: Master of Mathematics First Class (Hons) at University of York, UK
 
-My full CV is available to download [here](files/CV-RobNoble.pdf).
+My full CV is available to download [here](/../../files/CV-RobNoble.pdf).
