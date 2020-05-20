@@ -20,3 +20,5 @@ Interested candidates should email me a cover letter (one page), CV, transcripts
 The positions will remain available until filled, with an initial application deadline of 5th May 2020.
 
 The preferred starting date is October 2020.
+
+This page will be updated with further details (last update 20th May).
