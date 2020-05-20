@@ -10,7 +10,7 @@ author_profile: true
 
 My research has four connected themes.
 
-# Dynamics of somatic evolution
+## Dynamics of somatic evolution
 
 The proximate cause of cancer is somatic evolution. 
 Recent studies have unveiled extensive genetic heterogeneity not only in tumours but also in normal human tissues. 
@@ -23,7 +23,7 @@ This work thus provides a simple, mechanistic explanation for a wide range of em
 I am extending my modelling framework towards a general systematic understanding of somatic evolution.
 To test predictions and refine research questions, I will continue to use molecular data, in collaboration with bioinformaticians, experts in histopathological image analysis, and specialists in multi-region sequencing of tumours and heathy tissue.
 
-#	Forecasting tumour evolution
+## Forecasting tumour evolution
 
 Accurate methods for predicting whether neoplasms will grow aggressively, how they will initially respond to treatment, and whether and when drug resistance will develop, are lacking. 
 Computational models that account for cancer’s dynamic, evolving nature have enormous, untapped potential to provide more detailed patient-specific forecasts for informing clinical decision making.
@@ -36,7 +36,7 @@ This work informs the search for new prognostic biomarkers and contributes to es
 I am now working towards models that can forecast the evolution of realistically large, heterogeneous tumours. 
 This includes using diffusion approximations and other methods from statistical physics and population genetics to describe how clonal expansion speeds depend on key biological parameters, and using machine-learning methods to infer patient-specific parameter values from clinical data.
 
-# Evolutionarily-informed cancer therapy
+## Evolutionarily-informed cancer therapy
 
 Evolutionary theory and growing empirical data suggest that the emergence of resistance to cancer therapy may be prevented or delayed by exploiting competition between drug-sensitive and resistant cells. 
 However, proposed mathematical models of evolutionary cancer therapies lack specificity. 
@@ -49,7 +49,7 @@ I have relatedly investigated how public goods cooperation in bacteria depends o
 Building on these results, I am investigating how different tumour architectures and microenvironmental feedbacks result in different optimal strategies. 
 My long-term objective is to design optimal treatment regimens for each tumour type, and ultimately each patient.
 
-# Evolution of cancer risk
+## Evolution of cancer risk
 
 The ultimate cause of cancer is that multicellular organisms have evolved imperfect defence mechanisms against the breakdown of cell-cell cooperation. 
 This vulnerability can be understood through mathematical modelling in the framework of life history theory.
@@ -62,7 +62,8 @@ My analyses indicate that differences in microenvironment, tissue structure and 
 Having shown that cancer risk per stem cell division is several orders of magnitude greater in some human tissues than in others, I am now working towards explaining this enormous variation by integrating demographic models with multistage models of carcinogenesis. 
 This includes examining how systemic and tissue-specific cancer protection evolves subject to life history trade-offs across dissimilar tissues.
 
-References:
+### References:
+
 1. Noble et al., in revision;
 2. Mosca & Noble et al., in prep;
 3. Noble, Burley, Le Sueur & Hochberg, in revision;
