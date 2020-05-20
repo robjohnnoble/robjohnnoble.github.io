@@ -1,4 +1,13 @@
-My research programme has four connected themes.
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+My research has four connected themes.
 
 # Evolutionarily-informed cancer therapy
 
