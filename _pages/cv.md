@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education and work experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education and work experience
-======
 * 2020-present: Lecturer in Mathematics at City, University of London, UK
 * 2018-2020: PostDoc (20% contract) with Hanna Kokko at the University of Zurich, Switzerland
 * 2017-2020: PostDoc (80% contract) with Niko Beerenwinkel at ETH Zurich, Switzerland
