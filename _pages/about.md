@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I use mathematical and computational models to investigate the evolution and ecology of cancer, in collaboration with experimental biologists and clinicians.
+I use mathematical and computational models to investigate the evolution and ecology of cancer, in collaboration with experimental biologists and clinicians. My methods include agent-based models, analysis of dynamic systems, matrix population models, and Bayesian data analysis.
 
-I'm interested in the evolution and ecology of cancer risk; characterising and forecasting tumor evolution; evolutionary approaches to suppressing drug resistance; and personalised cancer therapy.
+I am establishing a mathematical oncology group at City, University of London focussed on four connected research themes:
+* Devising treatment strategies that optimally manipulate tumour evolutionary dynamics;
+* Pursuing a systematic understanding of somatic evolution;
+* Developing methods for patient-specific tumour progression forecasting;
+* Using life history theory and population data to disentangle contributions to cancer risk.
 
-My methods include agent-based models, analysis of dynamic systems, matrix population models, and Bayesian data analysis.
-
-I created and maintain the ggmuller R package [ggmuller](https://CRAN.R-project.org/package=ggmuller) for plotting evolutionary dynamics and the [demon](https://github.com/robjohnnoble/demon_model) tumour evolution simulator.
+I created and maintain the ggmuller R package [ggmuller](https://CRAN.R-project.org/package=ggmuller) for plotting evolutionary dynamics and the [demon](https://github.com/robjohnnoble/demon_model) tumour evolution simulator. I blog about science at [These few lines](https://thesefewlines.wordpress.com/).
 
