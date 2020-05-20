@@ -16,5 +16,7 @@ I am establishing a mathematical oncology group at City, University of London fo
 * Developing methods for patient-specific tumour progression forecasting;
 * Using life history theory and population data to disentangle contributions to cancer risk.
 
+Whereas these four research themes pertain to distinct applications, an evolutionary perspective reveals them to be fundamentally connected. A common thread in my research is investigating how aspects of ecology shape evolutionary dynamics. My overarching vision is to unite complementary lines of enquiry across biological scales to establish general principles of cancer evolution.
+
 I created and maintain the ggmuller R package [ggmuller](https://CRAN.R-project.org/package=ggmuller) for plotting evolutionary dynamics and the [demon](https://github.com/robjohnnoble/demon_model) tumour evolution simulator. I blog about science at [These few lines](https://thesefewlines.wordpress.com/).
 
