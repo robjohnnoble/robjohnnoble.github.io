@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Rob Noble"
 title_separator          : "-"
 name                     : &name "Rob Noble"
 description              : &description "Academic website of Rob Noble"
