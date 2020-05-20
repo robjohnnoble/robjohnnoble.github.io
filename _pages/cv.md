@@ -9,51 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and work experience
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2018 - present  : PostDoc (20% contract) with  Hanna Kokko, University of Zurich, Switzerland
+2017 - present : PostDoc (80% contract) with Niko Beerenwinkel, ETH Zurich, Switzerland
+2014 - 2017 : PostDoc with Michael Hochberg, Institut des Sciences de l’Evolution de Montpellier, France
+2009 - 2014 : DPhil with Mario Recker and Suntra Gupta, University of Oxford, UK
+1999 - 2003 : Master of Mathematics First Class (Hons), University of York, UK
