@@ -22,3 +22,5 @@ Education and work experience
 2009-2014: DPhil with Mario Recker and Suntra Gupta at University of Oxford, UK
 
 1999-2003: Master of Mathematics First Class (Hons) at University of York, UK
+
+My full CV is available to download [here](files/CV-RobNoble.pdf).
