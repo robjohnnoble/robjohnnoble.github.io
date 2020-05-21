@@ -13,7 +13,7 @@ redirect_from:
 * 2018-2020: PostDoc (20% contract) with Hanna Kokko at the University of Zurich, Switzerland
 * 2017-2020: PostDoc (80% contract) with Niko Beerenwinkel at ETH Zurich, Switzerland
 * 2014-2017: PostDoc with Michael Hochberg at l'Institut des Sciences de l’Evolution de Montpellier, France
-* 2009-2014: DPhil with Mario Recker and Suntra Gupta at the University of Oxford, UK
+* 2009-2014: DPhil with Mario Recker and Sunetra Gupta at the University of Oxford, UK
 * 1999-2003: Master of Mathematics First Class (Hons) at the University of York, UK
 
 My full CV is available to download [here](/../../files/CV-RobNoble.pdf).
