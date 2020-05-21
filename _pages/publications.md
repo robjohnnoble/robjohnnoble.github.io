@@ -52,5 +52,5 @@ A framework for how environment contributes to cancer risk.
 Ecology Letters (2017) 20, 117-34 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726)
 
 * Fastman Y, **Noble R**, Recker M, Dzikowski R.
-Erasing the Epigenetic Memory and Beginning to Switch—The Onset of Antigenic Switching of var Genes in *Plasmodium falciparum*.
+Erasing the epigenetic memory and beginning to switch -- the onset of antigenic switching of *var* Genes in *Plasmodium falciparum*.
 PLoS ONE (2012) 7, e34168 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034168)
