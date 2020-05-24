@@ -23,6 +23,8 @@ This work thus provides a simple, mechanistic explanation for a wide range of em
 I am extending my modelling framework towards a general systematic understanding of somatic evolution.
 To test predictions and refine research questions, I will continue to use molecular data, in collaboration with bioinformaticians, experts in histopathological image analysis, and specialists in multi-region sequencing of tumours and heathy tissue.
 
+Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH University Hospital, Aachen).
+
 ## Forecasting tumour evolution
 
 Accurate methods for predicting whether neoplasms will grow aggressively, how they will initially respond to treatment, and whether and when drug resistance will develop, are lacking. 
@@ -35,6 +37,8 @@ This work informs the search for new prognostic biomarkers and contributes to es
 
 I am now working towards models that can forecast the evolution of realistically large, heterogeneous tumours. 
 This includes using diffusion approximations and other methods from statistical physics and population genetics to describe how clonal expansion speeds depend on key biological parameters, and using machine-learning methods to infer patient-specific parameter values from clinical data.
+
+Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustaveroussy.fr/fr/des-cellules-souches-hematopoietiques-aux-megacaryocytes-membres-de-lequipe) (Institut Gustav Roussy, Paris).
 
 ## Evolutionarily-informed cancer therapy
 
@@ -49,6 +53,8 @@ I have relatedly investigated how public goods cooperation in bacteria depends o
 Building on these results, I am investigating how different tumour architectures and microenvironmental feedbacks result in different optimal strategies. 
 My long-term objective is to design optimal treatment regimens for each tumour type, and ultimately each patient.
 
+Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-nucleaire-de-la-proliferation-cellulaire/) (IGMM, Montpellier) and [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html) (Université Paris Dauphine, Paris).
+
 ## Evolution of cancer risk
 
 The ultimate cause of cancer is that multicellular organisms have evolved imperfect defence mechanisms against the breakdown of cell-cell cooperation. 
@@ -61,6 +67,8 @@ My analyses indicate that differences in microenvironment, tissue structure and 
 
 Having shown that cancer risk per stem cell division is several orders of magnitude greater in some human tissues than in others, I am now working towards explaining this enormous variation by integrating demographic models with multistage models of carcinogenesis. 
 This includes examining how systemic and tissue-specific cancer protection evolves subject to life history trade-offs across dissimilar tissues.
+
+Collaborators include [Hanna Kokko](https://www.ieu.uzh.ch/en/staff/member/kokko_hanna.html) (University of Zurich).
 
 ### References:
 
