@@ -72,13 +72,13 @@ Collaborators include [Hanna Kokko](https://www.ieu.uzh.ch/en/staff/member/kokko
 
 ### References:
 
-1. Noble et al., in revision;
-2. Mosca & Noble et al., in prep;
-3. Noble, Burley, Le Sueur & Hochberg, in revision;
-4. Bacevic & Noble et al., Nat. Commun., 2017;
-5. Viossat & Noble, submitted;
-6. Vasse & Noble et al., PNAS, 2017;
-7. Hochberg & Noble, Ecology Letters, 2017;
-8. Noble, Braude, Hochberg & Kokko, in prep;
-9. Noble, Kaltz & Hochberg, Phil. Trans. R. Soc. B, 2015;
-10. Noble et al., Cancer Prev. Res., 2016.
+1. Noble et al. (In revision) [link](https://www.biorxiv.org/content/10.1101/586735v1)
+2. Mosca & Noble *et al.* (In prep)
+3. Noble, Burley, Le Sueur & Hochberg. (In revision) [link](https://www.biorxiv.org/content/10.1101/2019.12.17.879270v1)
+4. Bacevic & Noble *et al.* Nat. Commun. (2017) [link](https://www.nature.com/articles/s41467-017-01516-1)
+5. Viossat & Noble. (Submitted) [link](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2)
+6. Vasse & Noble *et al.* PNAS (2017) [link](https://www.pnas.org/content/114/3/546)
+7. Hochberg & Noble. Ecology Letters (2017) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726)
+8. Noble, Braude, Hochberg & Kokko. (In prep)
+9. Noble, Kaltz & Hochberg. Phil. Trans. R. Soc. B (2015) [link](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0104)
+10. Noble *et al.* Cancer Prev. Res. (2016) [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
