@@ -72,7 +72,7 @@ Collaborators include [Hanna Kokko](https://www.ieu.uzh.ch/en/staff/member/kokko
 
 ### References:
 
-1. Noble et al. (In revision) [link](https://www.biorxiv.org/content/10.1101/586735v1)
+1. Noble *et al.* (In revision) [link](https://www.biorxiv.org/content/10.1101/586735v1)
 2. Mosca & Noble *et al.* (In prep)
 3. Noble, Burley, Le Sueur & Hochberg. (In revision) [link](https://www.biorxiv.org/content/10.1101/2019.12.17.879270v1)
 4. Bacevic & Noble *et al.* Nat. Commun. (2017) [link](https://www.nature.com/articles/s41467-017-01516-1)
