@@ -83,8 +83,8 @@ author:
   name             : "Rob Noble"
   avatar           : "20181017_Robert_color_small.jpg"
   bio              : "Mathematical modeller in evolution and ecology of cancer"
-  location         : "Basel (soon London)"
-  employer         : "ETH/UZH (soon CUL)"
+  location         : 
+  employer         : "City, University of London"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lDDprHkAAAAJ"
   email            : "robjohnnoble@gmail.com"
