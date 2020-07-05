@@ -74,7 +74,7 @@ Collaborators include [Hanna Kokko](https://www.ieu.uzh.ch/en/staff/member/kokko
 
 1. Noble *et al.* (In revision) [link](https://www.biorxiv.org/content/10.1101/586735v1)
 2. Mosca & Noble *et al.* (In prep)
-3. Noble, Burley, Le Sueur & Hochberg. (In revision) [link](https://www.biorxiv.org/content/10.1101/2019.12.17.879270v1)
+3. Noble, Burley, Le Sueur & Hochberg. Evol. Appl. (2020) [link](https://doi.org/10.1111/eva.13057)
 4. Bacevic & Noble *et al.* Nat. Commun. (2017) [link](https://www.nature.com/articles/s41467-017-01516-1)
 5. Viossat & Noble. (Submitted) [link](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2)
 6. Vasse & Noble *et al.* PNAS (2017) [link](https://www.pnas.org/content/114/3/546)
