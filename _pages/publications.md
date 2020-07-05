@@ -7,13 +7,13 @@ author_profile: true
 
 ## As first or co-first author
 
-* **Noble R\***, Burley JT\*, Le Sueur C, Hochberg ME.
-When, why and how tumour clonal diversity predicts survival.
-(in press with Evolutionary Applications)
-
 * **Noble R**, Burri D, Kather JN, Beerenwinkel N.
 Spatial structure governs the mode of tumour evolution.
 (in revision) [link to preprint](https://www.biorxiv.org/content/10.1101/586735v1)
+
+* **Noble R\***, Burley JT\*, Le Sueur C, Hochberg ME.
+When, why and how tumour clonal diversity predicts survival.
+Evol. Appl. (2020) eva.13057 [link](https://doi.org/10.1111/eva.13057)
 
 *	Bacevic K\*, **Noble R\***, Soffar A, Ammar OW, Boszonyik B, Prieto S, Vincent C, Hochberg ME, Krasinska L, Fisher D.
 Spatial competition constrains resistance to targeted cancer therapy.
