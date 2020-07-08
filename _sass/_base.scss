@@ -191,7 +191,9 @@ figcaption {
  background: #fff;
  display: block;
  padding: 5px;
- font-size: 8;
+   color: mix(#fff, $text-color, 25%);
+  font-family: $caption-font-family;
+  font-size: $type-size-6;
 }
 
 /* Fix IE9 SVG bug */
