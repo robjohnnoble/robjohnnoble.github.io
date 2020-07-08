@@ -185,7 +185,6 @@ figure {
    padding: 10px;
    margin: 0 10px 10px 0;
    text-align: center;
-   width: 400px;
 }
 
 figcaption {
@@ -195,6 +194,7 @@ figcaption {
    color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
   font-size: $type-size-6;
+   width: 400px;
 }
 
 /* Fix IE9 SVG bug */
