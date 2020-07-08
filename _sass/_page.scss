@@ -114,6 +114,8 @@ figure {
    padding: 10px;
    margin: 0 10px 10px 0;
    text-align: center;
+   width: 400px;
+   height: 300px;
 }
 
 figcaption {
@@ -121,6 +123,7 @@ figcaption {
  display: block;
  padding: 5px;
  font-size: $type-size-2;
+ width: 400px;
 }
 
 .embed-youtube {
