@@ -20,7 +20,7 @@ Yet while rich data sets are rapidly accumulating, we still have little understa
   <a href="/images/Cagan3_Sanger2018.jpg">
   <img src="/images/Cagan3_Sanger2018_small.jpg" alt = "The mode and predictability of intra-tumour evoluion" style="width:300px"  style="height:225px" />
     </a>
-  <figcaption>The mode and predictability of intra-tumour evoluion, Sanger Institute seminar 2018, drawn by Alex Cagan</figcaption>
+  <figcaption>The mode and predictability of intra-tumour evoluion, Sanger Institute seminar 2018, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
 </figure>
 
 I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework. 
@@ -53,6 +53,13 @@ Evolutionary theory and growing empirical data suggest that the emergence of res
 However, proposed mathematical models of evolutionary cancer therapies lack specificity. 
 There is no reliable way to predict which strategy will work best for a particular patient.
 
+<figure>
+  <a href="/images/Cagan2_ISEEC2017.jpg">
+  <img src="/images/Cagan2_ISEEC2017_small.jpg" alt = "Spatial competition constrains resistance to targeted cancer therapy" style="width:300px"  style="height:225px" />
+    </a>
+  <figcaption>Spatial competition constrains resistance to targeted cancer therapy, ISEEC 2017, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
+</figure>
+
 In collaboration with cancer cell biologists, I have validated an adaptive therapy concept by using computational and mathematical modelling to show how spatial constraints can be exploited to suppress resistance to targeted therapy [4].
 I have further contributed to extending these results towards a mathematically rigorous theory of cancer adaptive therapy that unifies and generalizes previous formulations [5].
 I have relatedly investigated how public goods cooperation in bacteria depends on ecological antagonisms [6], with potential implications for therapeutic manipulation of ecological interactions, such as in tumours that depend on paracrine growth factors.
@@ -66,6 +73,13 @@ Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-n
 
 The ultimate cause of cancer is that multicellular organisms have evolved imperfect defence mechanisms against the breakdown of cell-cell cooperation. 
 This vulnerability can be understood through mathematical modelling in the framework of life history theory.
+
+<figure>
+  <a href="/images/Cagan1_IBECC2015.jpg">
+  <img src="/images/Cagan1_IBECC2015_small.jpg" alt = "Peto's paradox and human cancers" style="width:300px"  style="height:225px" />
+    </a>
+  <figcaption>Peto's paradox and human cancers, IBECC 2015, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
+</figure>
 
 I have argued that most modern-day cancers in animals – and humans in particular – are due to environmental changes outpacing cancer resistance evolution [7]. 
 I am now using matrix population models to examine whether particular life history traits can explain cases of species with exceptional resistance to both senescence and cancer [8]. 
