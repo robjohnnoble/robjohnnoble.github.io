@@ -19,8 +19,8 @@ Yet while rich data sets are rapidly accumulating, we still have little understa
 <figure>
   <a href="/images/Cagan3_Sanger2018.jpg">
   <img src="/images/Cagan3_Sanger2018_small.jpg" alt = "The mode and predictability of intra-tumour evoluion" style="width:300px"  style="height:225px" />
+    </a>
   <figcaption>The mode and predictability of intra-tumour evoluion, Sanger Institute seminar 2018, drawn by Alex Cagan</figcaption>
-   <\a>
 </figure>
 
 I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework. 
