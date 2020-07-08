@@ -16,7 +16,7 @@ The proximate cause of cancer is somatic evolution.
 Recent studies have unveiled extensive genetic heterogeneity not only in tumours but also in normal human tissues. 
 Yet while rich data sets are rapidly accumulating, we still have little understanding of the evolutionary processes that generate the observed patterns of diversity.
 
-{% include images/image.html file="Cagan3_Sanger2018.jpg" description="Modes of evolution" %}
+{% include image.html file="Cagan3_Sanger2018.jpg" description="Modes of evolution" %}
 
 I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework. 
 By parametrizing this model using information derived from histopathological image analysis, I have shown that differences in tumour architecture can explain the variety of evolutionary modes observed in human cancers, including four archetypal “oncoevotypes” [1].
