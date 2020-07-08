@@ -107,6 +107,22 @@
   }
 }
 
+figure {
+   background: #b2b2b2;
+   display: block;
+   float: left;
+   padding: 10px;
+   margin: 0 10px 10px 0;
+   text-align: center;
+}
+
+figcaption {
+ background: #fff;
+ display: block;
+ padding: 5px;
+ font-size: $type-size-2;
+}
+
 .embed-youtube {
     position: relative;
     padding-bottom: 56.25%;
