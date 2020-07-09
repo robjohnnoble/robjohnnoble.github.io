@@ -180,16 +180,22 @@ li ol {
 
 figure {
    background: #b2b2b2;
-   display: block;
+   display: table;
    float: right;
    padding: 5px;
    margin: 0 0 10px 10px;
    text-align: center;
 }
 
+figure img {
+    display: block;
+    width: 100%;
+}
+
 figcaption {
  background: #fff;
- display: block;
+ display: table-caption;
+    caption-side: bottom;
  padding: 5px;
    color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
