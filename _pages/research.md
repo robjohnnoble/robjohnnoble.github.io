@@ -18,7 +18,7 @@ Yet while rich data sets are rapidly accumulating, we still have little understa
 
 <figure>
   <a href="/images/Cagan3_Sanger2018.jpg">
-  <img src="/images/Cagan3_Sanger2018_small.jpg" alt = "The mode and predictability of intra-tumour evoluion" style="width:300px"  style="height:225px" />
+  <img src="/images/Cagan3_Sanger2018_small.jpg" alt = "The mode and predictability of intra-tumour evoluion" />
     </a>
   <figcaption>The mode and predictability of intra-tumour evoluion, Sanger Institute seminar 2018, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
 </figure>
@@ -55,7 +55,7 @@ There is no reliable way to predict which strategy will work best for a particul
 
 <figure>
   <a href="/images/Cagan2_ISEEC2017.jpg">
-  <img src="/images/Cagan2_ISEEC2017_small.jpg" alt = "Spatial competition constrains resistance to targeted cancer therapy" style="width:300px"  style="height:225px" />
+  <img src="/images/Cagan2_ISEEC2017_small.jpg" alt = "Spatial competition constrains resistance to targeted cancer therapy" />
     </a>
   <figcaption>Spatial competition constrains resistance to targeted cancer therapy, ISEEC 2017, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
 </figure>
@@ -76,7 +76,7 @@ This vulnerability can be understood through mathematical modelling in the frame
 
 <figure>
   <a href="/images/Cagan1_IBECC2015.jpg">
-  <img src="/images/Cagan1_IBECC2015_small.jpg" alt = "Peto's paradox and human cancers" style="width:300px"  style="height:225px" />
+  <img src="/images/Cagan1_IBECC2015_small.jpg" alt = "Peto's paradox and human cancers" />
     </a>
   <figcaption>Peto's paradox and human cancers, IBECC 2015, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
 </figure>
