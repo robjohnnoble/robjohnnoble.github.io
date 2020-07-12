@@ -80,7 +80,7 @@ Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-n
 
 ### References:
 
-1. Bacevic & Noble *et al.* Spatial competition constrains resistance to targeted cancer therapy. Nat. Commun. (2017) [link](https://www.nature.com/articles/s41467-017-01516-1)
+1. Bacevic & Noble *et al.* [Spatial competition constrains resistance to targeted cancer therapy.](https://www.nature.com/articles/s41467-017-01516-1) Nat. Commun. (2017)
 2. Viossat & Noble. [The logic of containing tumors.](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2) (Submitted)
 3. Vasse & Noble *et al.* [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.](https://www.pnas.org/content/114/3/546) PNAS (2017)
 
