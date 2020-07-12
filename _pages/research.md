@@ -34,7 +34,7 @@ Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH Universit
 
 ### References:
 
-1. Noble *et al.* Spatial structure governs the mode of tumour evolution. (In revision) [link](https://www.biorxiv.org/content/10.1101/586735v1)
+1. Noble *et al.* [Spatial structure governs the mode of tumour evolution.](https://www.biorxiv.org/content/10.1101/586735v1) (In revision)
 
 ## Forecasting tumour evolution
 
@@ -54,7 +54,7 @@ Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustave
 ### References:
 
 1. Mosca & Noble *et al.* Predicting the long-term response of IFN$\alpha$ in myeloproliferative neoplasms. (In prep)
-2. Noble, Burley, Le Sueur & Hochberg. When, why and how tumour clonal diversity predicts survival. Evol. Appl. (2020) [link](https://doi.org/10.1111/eva.13057)
+2. Noble, Burley, Le Sueur & Hochberg. [When, why and how tumour clonal diversity predicts survival.](https://doi.org/10.1111/eva.13057) Evol. Appl. (2020)
 
 ## Evolutionarily-informed cancer therapy
 
@@ -81,8 +81,8 @@ Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-n
 ### References:
 
 1. Bacevic & Noble *et al.* Spatial competition constrains resistance to targeted cancer therapy. Nat. Commun. (2017) [link](https://www.nature.com/articles/s41467-017-01516-1)
-2. Viossat & Noble. The logic of containing tumors. (Submitted) [link](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2)
-3. Vasse & Noble *et al.* Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*. PNAS (2017) [link](https://www.pnas.org/content/114/3/546)
+2. Viossat & Noble. [The logic of containing tumors.](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2) (Submitted)
+3. Vasse & Noble *et al.* [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.](https://www.pnas.org/content/114/3/546) PNAS (2017)
 
 ## Evolution of cancer risk
 
@@ -108,6 +108,6 @@ Collaborators include [Hanna Kokko](https://www.ieu.uzh.ch/en/staff/member/kokko
 
 ### References:
 
-1. Hochberg & Noble. A framework for how environment contributes to cancer risk. Ecology Letters (2017) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726)
-2. Noble, Kaltz & Hochberg. Peto's paradox and human cancers. Phil. Trans. R. Soc. B (2015) [link](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0104)
-3. Noble *et al.* Overestimating the Role of Environment in Cancers. Cancer Prev. Res. (2016) [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
+1. Hochberg & Noble. [A framework for how environment contributes to cancer risk.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726) Ecology Letters (2017)
+2. Noble, Kaltz & Hochberg. [Peto's paradox and human cancers.](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0104) Phil. Trans. R. Soc. B (2015)
+3. Noble *et al.* [Overestimating the Role of Environment in Cancers.](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773) Cancer Prev. Res. (2016)
