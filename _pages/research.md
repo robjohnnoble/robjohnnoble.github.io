@@ -32,20 +32,29 @@ To test predictions and refine research questions, I will continue to use molecu
 
 Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH University Hospital, Aachen).
 
+### References:
+
+1. Noble *et al.* Spatial structure governs the mode of tumour evolution. (In revision) [link](https://www.biorxiv.org/content/10.1101/586735v1)
+
 ## Forecasting tumour evolution
 
 Accurate methods for predicting whether neoplasms will grow aggressively, how they will initially respond to treatment, and whether and when drug resistance will develop, are lacking. 
 Computational models that account for cancer’s dynamic, evolving nature have enormous, untapped potential to provide more detailed patient-specific forecasts for informing clinical decision making.
 
 Working closely with oncologists during a four-year clinical trial, I have developed and analyzed a mathematical model of clonal dynamics during treatment of myeloproliferative neoplasms. 
-By combining this model with a Bayesian inferential method, I have obtained the first estimates of mutated-cell proliferation and differentiation rates in these diseases, which can be used to predict treatment response [2]. 
-For solid tumours, I have used computational modelling to assess when, why and how intratumour heterogeneity can be used to forecast tumour growth rate and clinical progression [3]. 
+By combining this model with a Bayesian inferential method, I have obtained the first estimates of mutated-cell proliferation and differentiation rates in these diseases, which can be used to predict treatment response [1]. 
+For solid tumours, I have used computational modelling to assess when, why and how intratumour heterogeneity can be used to forecast tumour growth rate and clinical progression [2]. 
 This work informs the search for new prognostic biomarkers and contributes to establishing a theoretical foundation for the new field of predictive oncology.
 
 I am now working towards models that can forecast the evolution of realistically large, heterogeneous tumours. 
 This includes using diffusion approximations and other methods from statistical physics and population genetics to describe how clonal expansion speeds depend on key biological parameters, and using machine-learning methods to infer patient-specific parameter values from clinical data.
 
 Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustaveroussy.fr/fr/des-cellules-souches-hematopoietiques-aux-megacaryocytes-membres-de-lequipe) (Institut Gustav Roussy, Paris).
+
+### References:
+
+1. Mosca & Noble *et al.* Predicting the long-term response of IFN$\alpha$ in myeloproliferative neoplasms. (In prep)
+2. Noble, Burley, Le Sueur & Hochberg. When, why and how tumour clonal diversity predicts survival. Evol. Appl. (2020) [link](https://doi.org/10.1111/eva.13057)
 
 ## Evolutionarily-informed cancer therapy
 
@@ -60,14 +69,20 @@ There is no reliable way to predict which strategy will work best for a particul
   <figcaption>Spatial competition constrains resistance to targeted cancer therapy, ISEEC 2017, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
 </figure>
 
-In collaboration with cancer cell biologists, I have validated an adaptive therapy concept by using computational and mathematical modelling to show how spatial constraints can be exploited to suppress resistance to targeted therapy [4].
-I have further contributed to extending these results towards a mathematically rigorous theory of cancer adaptive therapy that unifies and generalizes previous formulations [5].
-I have relatedly investigated how public goods cooperation in bacteria depends on ecological antagonisms [6], with potential implications for therapeutic manipulation of ecological interactions, such as in tumours that depend on paracrine growth factors.
+In collaboration with cancer cell biologists, I have validated an adaptive therapy concept by using computational and mathematical modelling to show how spatial constraints can be exploited to suppress resistance to targeted therapy [1].
+I have further contributed to extending these results towards a mathematically rigorous theory of cancer adaptive therapy that unifies and generalizes previous formulations [2].
+I have relatedly investigated how public goods cooperation in bacteria depends on ecological antagonisms [3], with potential implications for therapeutic manipulation of ecological interactions, such as in tumours that depend on paracrine growth factors.
 
 Building on these results, I am investigating how different tumour architectures and microenvironmental feedbacks result in different optimal strategies. 
 My long-term objective is to design optimal treatment regimens for each tumour type, and ultimately each patient.
 
 Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-nucleaire-de-la-proliferation-cellulaire/) (IGMM, Montpellier) and [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html) (Université Paris Dauphine, Paris).
+
+### References:
+
+1. Bacevic & Noble *et al.* Spatial competition constrains resistance to targeted cancer therapy. Nat. Commun. (2017) [link](https://www.nature.com/articles/s41467-017-01516-1)
+2. Viossat & Noble. The logic of containing tumors. (Submitted) [link](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2)
+3. Vasse & Noble *et al.* Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*. PNAS (2017) [link](https://www.pnas.org/content/114/3/546)
 
 ## Evolution of cancer risk
 
@@ -81,10 +96,10 @@ This vulnerability can be understood through mathematical modelling in the frame
   <figcaption>Peto's paradox and human cancers, IBECC 2015, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
 </figure>
 
-I have argued that most modern-day cancers in animals – and humans in particular – are due to environmental changes outpacing cancer resistance evolution [7]. 
-I am now using matrix population models to examine whether particular life history traits can explain cases of species with exceptional resistance to both senescence and cancer [8]. 
-At the within-organism level, I have shown that variation in risk of human cancer types is analogous to the paradoxical lack of variation in cancer incidence among animal species and may likewise be understood as a result of natural selection [9]. 
-My analyses indicate that differences in microenvironment, tissue structure and evolved protection mechanisms are of central importance in determining cancer risk [10].
+I have argued that most modern-day cancers in animals – and humans in particular – are due to environmental changes outpacing cancer resistance evolution [1]. 
+I am now using matrix population models to examine whether particular life history traits can explain cases of species with exceptional resistance to both senescence and cancer. 
+At the within-organism level, I have shown that variation in risk of human cancer types is analogous to the paradoxical lack of variation in cancer incidence among animal species and may likewise be understood as a result of natural selection [2]. 
+My analyses indicate that differences in microenvironment, tissue structure and evolved protection mechanisms are of central importance in determining cancer risk [3].
 
 Having shown that cancer risk per stem cell division is several orders of magnitude greater in some human tissues than in others, I am now working towards explaining this enormous variation by integrating demographic models with multistage models of carcinogenesis. 
 This includes examining how systemic and tissue-specific cancer protection evolves subject to life history trade-offs across dissimilar tissues.
@@ -93,13 +108,6 @@ Collaborators include [Hanna Kokko](https://www.ieu.uzh.ch/en/staff/member/kokko
 
 ### References:
 
-1. Noble *et al.* (In revision) [link](https://www.biorxiv.org/content/10.1101/586735v1)
-2. Mosca & Noble *et al.* (In prep)
-3. Noble, Burley, Le Sueur & Hochberg. Evol. Appl. (2020) [link](https://doi.org/10.1111/eva.13057)
-4. Bacevic & Noble *et al.* Nat. Commun. (2017) [link](https://www.nature.com/articles/s41467-017-01516-1)
-5. Viossat & Noble. (Submitted) [link](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2)
-6. Vasse & Noble *et al.* PNAS (2017) [link](https://www.pnas.org/content/114/3/546)
-7. Hochberg & Noble. Ecology Letters (2017) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726)
-8. Noble, Braude, Hochberg & Kokko. (In prep)
-9. Noble, Kaltz & Hochberg. Phil. Trans. R. Soc. B (2015) [link](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0104)
-10. Noble *et al.* Cancer Prev. Res. (2016) [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
+1. Hochberg & Noble. A framework for how environment contributes to cancer risk. Ecology Letters (2017) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726)
+2. Noble, Kaltz & Hochberg. Peto's paradox and human cancers. Phil. Trans. R. Soc. B (2015) [link](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0104)
+3. Noble *et al.* Overestimating the Role of Environment in Cancers. Cancer Prev. Res. (2016) [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
