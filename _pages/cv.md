@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and academic employment"
+title: "CV and short bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+## Short bio
+
+After a first degree in mathematics, I earned my PhD in mathematical biology at the University of Oxford, investigating interrelationships between host population immunity and pathogen population genetics. For my first postdoctoral position, with Michael Hochberg at the Institut des Sciences de l’Evolution de Montpellier, I switched my primary focus from infectious disease to cancer. I chose to pursue a second postdoc in Niko Beerenwinkel’s group at ETH Zurich, within a systems biology department, so as to unite dynamical models of somatic evolution with methods of molecular data analysis and phylogenetic inference. I later took a concurrent postdoc appointment in Hanna Kokko’s group at the University of Zurich, using life history models to understand the evolution of cancer risk as part of the international Arizona Cancer Evolution Center. Since July 2020 I have been a lecturer in applied mathematics at City, University of London, where I am continuing my research at the intersection of mathematical, computational and theoretical biology.
+
+## Education and academic employment
 
 * **2020-present: Lecturer in Mathematics at [City, University of London](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/mathematics), UK**  
 Mathematical oncology
