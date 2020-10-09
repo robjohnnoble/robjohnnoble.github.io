@@ -43,6 +43,10 @@ PLoS ONE (2012) 7, e39335 [link](https://journals.plos.org/plosone/article?id=10
 
 ## Other publications
 
+* Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
+Drug-induced resistance evolution necessitates less aggressive treatment.
+(submitted) [link](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
+
 * Viossat Y, **Noble R**.
 The logic of containing tumors.
 (submitted) [link](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2)
