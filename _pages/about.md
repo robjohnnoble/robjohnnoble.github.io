@@ -18,7 +18,7 @@ I am establishing a mathematical oncology group at [City, University of London](
 
 Whereas these four themes pertain to distinct applications, an evolutionary perspective reveals them to be fundamentally connected. A common thread in my research is investigating how aspects of ecology shape evolutionary dynamics. My overarching vision is to unite complementary lines of enquiry across biological scales to establish general principles of cancer evolution.
 
-The methods I use to pursue these aims include agent-based models, analysis of dynamic systems, matrix population models, and Bayesian data analysis.
+The methods I use to pursue these aims include agent-based models, analysis of dynamical systems, stochastic processes, matrix population models, and Bayesian data analysis.
 
 ## Software and blogging
 
