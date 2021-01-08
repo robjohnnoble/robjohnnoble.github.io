@@ -53,7 +53,7 @@ Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustave
 
 ### References:
 
-1. Mosca & Noble *et al.* Predicting the long-term response of IFN$\alpha$ in myeloproliferative neoplasms. (In prep)
+1. Mosca & Noble *et al.* Predicting the long-term response of IFN$\alpha$ in myeloproliferative neoplasms. (Submitted)
 2. Noble, Burley, Le Sueur & Hochberg. [When, why and how tumour clonal diversity predicts survival.](https://doi.org/10.1111/eva.13057) Evol. Appl. (2020)
 
 ## Evolutionarily-informed cancer therapy
@@ -81,7 +81,7 @@ Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-n
 ### References:
 
 1. Bacevic & Noble *et al.* [Spatial competition constrains resistance to targeted cancer therapy.](https://www.nature.com/articles/s41467-017-01516-1) Nat. Commun. (2017)
-2. Viossat & Noble. [The logic of containing tumors.](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2) (Submitted)
+2. Viossat & Noble. [The logic of containing tumors.](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2) (Accepted for publication)
 3. Vasse & Noble *et al.* [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.](https://www.pnas.org/content/114/3/546) PNAS (2017)
 
 ## Evolution of cancer risk
