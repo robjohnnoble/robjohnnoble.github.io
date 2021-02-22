@@ -13,7 +13,7 @@ redirect_from:
 
 I have funding for a PhD student to join my research group in the Department of Mathematics at City, University of London.
 
-The student will pursue projects aligned with my [research themes](research.md). as part of the international <a href="https://cancer-insights.asu.edu/">Arizona Cancer Evolution Center (ACE)</a>, which unites cancer evolution experts in London, the US, Switzerland and elsewhere.
+The student will pursue projects aligned with my [research themes](research.md) as part of the international <a href="https://cancer-insights.asu.edu/">Arizona Cancer Evolution Center (ACE)</a>, which unites cancer evolution experts in London, the US, Switzerland and elsewhere.
 
 I'm looking for students who have (or will soon have) a good honours degree in mathematics, physics, computational biology or another scientific discipline that has equipped them with strong analytical skills, and who are enthusiastic about applying those skills to answering important biological and clinical questions. Demonstrated mathematical modelling capability, relevant biological knowledge, and programming experience (e.g. in C, Python or Matlab) are highly desirable.
 
