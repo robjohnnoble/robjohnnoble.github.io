@@ -7,6 +7,10 @@ author_profile: true
 
 ## As first or co-first author
 
+* **Noble R**, Walther V, Roumestand C, Hibner U, Hochberg ME, Lassus P.
+Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.
+(submitted) [link to preprint](https://www.biorxiv.org/content/10.1101/2020.12.14.422649v2)
+
 * **Noble R**, Burri D, Kather JN, Beerenwinkel N.
 Spatial structure governs the mode of tumour evolution.
 (in revision) [link to preprint](https://www.biorxiv.org/content/10.1101/586735v1)
