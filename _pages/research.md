@@ -25,16 +25,17 @@ Yet while rich data sets are rapidly accumulating, we still have little understa
 
 I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework. 
 By parametrizing this model using information derived from histopathological image analysis, I have shown that differences in tumour architecture can explain the variety of evolutionary modes observed in human cancers, including four archetypal “oncoevotypes” [1].
-This work thus provides a simple, mechanistic explanation for a wide range of empirical observations.
+In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism [2].
 
 I am extending my modelling framework towards a general systematic understanding of somatic evolution.
 To test predictions and refine research questions, I will continue to use molecular data, in collaboration with bioinformaticians, experts in histopathological image analysis, and specialists in multi-region sequencing of tumours and heathy tissue.
 
-Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH University Hospital, Aachen).
+Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH University Hospital, Aachen) and [Ula Hibner](https://www.igmm.cnrs.fr/en/team/vhc-et-cancer/) (IGMM, Montpellier).
 
 ### References:
 
 1. Noble *et al.* [Spatial structure governs the mode of tumour evolution.](https://www.biorxiv.org/content/10.1101/586735v1) (In revision)
+2. Noble *et al.* [Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.][https://www.biorxiv.org/content/10.1101/2020.12.14.422649v2] (Submitted)
 
 ## Forecasting tumour evolution
 
@@ -81,7 +82,7 @@ Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-n
 ### References:
 
 1. Bacevic & Noble *et al.* [Spatial competition constrains resistance to targeted cancer therapy.](https://www.nature.com/articles/s41467-017-01516-1) Nat. Commun. (2017)
-2. Viossat & Noble. [The logic of containing tumors.](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2) (Accepted for publication)
+2. Viossat & Noble. [A theoretical analysis of tumour containment.](https://doi.org/10.1038/s41559-021-01428-w) Nat. Ecol. Evol. (2021)
 3. Vasse & Noble *et al.* [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.](https://www.pnas.org/content/114/3/546) PNAS (2017)
 
 ## Evolution of cancer risk
