@@ -5,11 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-## As first or co-first author
+## Publications and preprints
+
+* Viossat Y, **Noble R**.
+A theoretical analysis of tumour containment.
+Nature Ecology &amp; Evolution (2021) [link](https://doi.org/10.1038/s41559-021-01428-w)
 
 * **Noble R**, Walther V, Roumestand C, Hibner U, Hochberg ME, Lassus P.
 Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.
 (submitted) [link to preprint](https://www.biorxiv.org/content/10.1101/2020.12.14.422649v2)
+
+* Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
+Drug-induced resistance evolution necessitates less aggressive treatment.
+(submitted) [link](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
+
+* Dujon A, ..., **Noble R**, ..., Thomas F, Ujvari B.
+Identifying key questions in the ecology and evolution of cancer.
+Evolutionary Applications (2020) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/eva.13190)
 
 * **Noble R**, Burri D, Kather JN, Beerenwinkel N.
 Spatial structure governs the mode of tumour evolution.
@@ -18,6 +30,10 @@ Spatial structure governs the mode of tumour evolution.
 * **Noble R\***, Burley JT\*, Le Sueur C, Hochberg ME.
 When, why and how tumour clonal diversity predicts survival.
 Evol. Appl. (2020) eva.13057 [link](https://doi.org/10.1111/eva.13057)
+
+* Hochberg ME, **Noble R**.
+A framework for how environment contributes to cancer risk.
+Ecology Letters (2017) 20, 117-34 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726)
 
 *	Bacevic K\*, **Noble R\***, Soffar A, Ammar OW, Boszonyik B, Prieto S, Vincent C, Hochberg ME, Krasinska L, Fisher D.
 Spatial competition constrains resistance to targeted cancer therapy.
@@ -39,30 +55,13 @@ Phil. Trans. B (2015) 370, 20150104 [link](https://royalsocietypublishing.org/do
 The antigenic switching network of *Plasmodium falciparum* and its implications for the immuno-epidemiology of malaria.
 eLife (2013) 2013.2:e01074 [link](https://elifesciences.org/articles/01074)
 
+* Fastman Y, **Noble R**, Recker M, Dzikowski R.
+Erasing the epigenetic memory and beginning to switch -- the onset of antigenic switching of *var* genes in *Plasmodium falciparum*.
+PLoS ONE (2012) 7, e34168 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034168)
+
 * **Noble R**, Recker M.
 A statistically rigorous method for determining antigenic switching networks.
 PLoS ONE (2012) 7, e39335 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039335)
 
 (* denotes equal contributions)
 
-## Other publications
-
-* Dujon A, ..., **Noble R**, ..., Thomas F, Ujvari B.
-Identifying key questions in the ecology and evolution of cancer.
-Evolutionary Applications (2020) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/eva.13190)
-
-* Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
-Drug-induced resistance evolution necessitates less aggressive treatment.
-(submitted) [link](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
-
-* Viossat Y, **Noble R**.
-The logic of containing tumors.
-(accepted) [link](https://www.biorxiv.org/content/10.1101/2020.01.22.915355v2)
-
-* Hochberg ME, **Noble R**.
-A framework for how environment contributes to cancer risk.
-Ecology Letters (2017) 20, 117-34 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726)
-
-* Fastman Y, **Noble R**, Recker M, Dzikowski R.
-Erasing the epigenetic memory and beginning to switch -- the onset of antigenic switching of *var* genes in *Plasmodium falciparum*.
-PLoS ONE (2012) 7, e34168 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034168)
