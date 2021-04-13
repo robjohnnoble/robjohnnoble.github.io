@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications and preprints
-
 * Viossat Y, **Noble R**.
 A theoretical analysis of tumour containment.
 Nature Ecology &amp; Evolution (2021) [link](https://doi.org/10.1038/s41559-021-01428-w)
