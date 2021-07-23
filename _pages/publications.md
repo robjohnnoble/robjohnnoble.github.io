@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Noble R**, Burri D, Kather JN, Beerenwinkel N.
+Spatial structure governs the mode of tumour evolution.
+(in revision) [link to preprint](https://www.biorxiv.org/content/10.1101/586735v1)
+
 * Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
 Drug-induced resistance evolution necessitates less aggressive treatment.
 (in revision) [link](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
@@ -24,10 +28,6 @@ Nature Ecology &amp; Evolution (2021) [link](https://doi.org/10.1038/s41559-021-
 * Dujon A, ..., **Noble R**, ..., Thomas F, Ujvari B.
 Identifying key questions in the ecology and evolution of cancer.
 Evolutionary Applications (2020) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/eva.13190)
-
-* **Noble R**, Burri D, Kather JN, Beerenwinkel N.
-Spatial structure governs the mode of tumour evolution.
-(in revision) [link to preprint](https://www.biorxiv.org/content/10.1101/586735v1)
 
 * **Noble R\***, Burley JT\*, Le Sueur C, Hochberg ME.
 When, why and how tumour clonal diversity predicts survival.
