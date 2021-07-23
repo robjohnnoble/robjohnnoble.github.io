@@ -7,7 +7,7 @@ author_profile: true
 
 * Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
 Drug-induced resistance evolution necessitates less aggressive treatment.
-(submitted) [link](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
+(in revision) [link](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
 
 * Mosca M\*, Hermange G\*, Tisserand A\*, **Noble R\***, ..., Plo I.
 Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.
