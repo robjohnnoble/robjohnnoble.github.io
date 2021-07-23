@@ -10,12 +10,12 @@ Drug-induced resistance evolution necessitates less aggressive treatment.
 (submitted) [link](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
 
 * Mosca M\*, Hermange G\*, Tisserand A\*, **Noble R\***, ..., Plo I.
-Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms
+Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.
 Blood (in press)
 
 * **Noble R**, Walther V, Roumestand C, Hibner U, Hochberg ME, Lassus P.
 Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.
-(Frontiers Ecology &amp; Evolution (2021) [link](https://doi.org/10.3389/fevo.2021.675638)
+Frontiers Ecology &amp; Evolution (2021) [link](https://doi.org/10.3389/fevo.2021.675638)
 
 * Viossat Y, **Noble R**.
 A theoretical analysis of tumour containment.
