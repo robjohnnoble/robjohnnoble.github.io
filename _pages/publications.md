@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Lemant J, Le Sueur C, Manojlović V, **Noble RJ**
+Robust, Universal Tree Balance Indices.
+(submitted) [link to preprint](https://www.biorxiv.org/content/10.1101/2021.08.25.457695v2)
+
 * **Noble R**, Burri D, Kather JN, Beerenwinkel N.
 Spatial structure governs the mode of tumour evolution.
-(in revision) [link to preprint](https://www.biorxiv.org/content/10.1101/586735v1)
+Nature Ecology &amp; Evolution (accepted) [link to preprint](https://www.biorxiv.org/content/10.1101/586735v1)
 
 * Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
 Drug-induced resistance evolution necessitates less aggressive treatment.
-(in revision) [link to preprint](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
+PLoS Computational Biology (in press) [link to preprint](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
 
 * Mosca M\*, Hermange G\*, Tisserand A\*, **Noble R\***, ..., Plo I.
 Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.
