@@ -15,7 +15,7 @@ Nature Ecology &amp; Evolution (accepted) [link to preprint](https://www.biorxiv
 
 * Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
 Drug-induced resistance evolution necessitates less aggressive treatment.
-PLoS Computational Biology (in press) [link to preprint](https://www.biorxiv.org/content/early/2020/10/08/2020.10.07.330134)
+PLoS Computational Biology (2021) [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009418)
 
 * Mosca M\*, Hermange G\*, Tisserand A\*, **Noble R\***, ..., Plo I.
 Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.
@@ -35,7 +35,7 @@ Evolutionary Applications (2020) [link](https://onlinelibrary.wiley.com/doi/abs/
 
 * **Noble R\***, Burley JT\*, Le Sueur C, Hochberg ME.
 When, why and how tumour clonal diversity predicts survival.
-Evol. Appl. (2020) eva.13057 [link](https://doi.org/10.1111/eva.13057)
+Evolutionary Applications (2020) eva.13057 [link](https://doi.org/10.1111/eva.13057)
 
 * Hochberg ME, **Noble R**.
 A framework for how environment contributes to cancer risk.
@@ -43,7 +43,7 @@ Ecology Letters (2017) 20, 117-34 [link](https://onlinelibrary.wiley.com/doi/ful
 
 *	Bacevic K\*, **Noble R\***, Soffar A, Ammar OW, Boszonyik B, Prieto S, Vincent C, Hochberg ME, Krasinska L, Fisher D.
 Spatial competition constrains resistance to targeted cancer therapy.
-Nature Commun. (2017) 8, 1995 [link](https://www.nature.com/articles/s41467-017-01516-1)
+Nature Communications (2017) 8, 1995 [link](https://www.nature.com/articles/s41467-017-01516-1)
 
 * Vasse M\*, **Noble R\***, Akhmetzhanov AR, Torres-Barceló C, Gurney J, Simon Benateau, Gougat-Barbera C, Kaltz O, Hochberg ME.
 Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.
@@ -51,7 +51,7 @@ PNAS (2017) 114, 546-51 [link](https://www.pnas.org/content/114/3/546)
 
 * **Noble R**, Kaltz O, Nunney L, Hochberg ME.
 Overestimating the role of environment in cancers.
-Cancer Prev. Res. (2016) 9, 773-6 [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
+Cancer Prevention Researcg (2016) 9, 773-6 [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
 
 * **Noble R**, Kaltz O, Hochberg ME.
 Peto's paradox and human cancers
