@@ -51,7 +51,7 @@ PNAS (2017) 114, 546-51 [link](https://www.pnas.org/content/114/3/546)
 
 * **Noble R**, Kaltz O, Nunney L, Hochberg ME.
 Overestimating the role of environment in cancers.
-Cancer Prevention Researcg (2016) 9, 773-6 [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
+Cancer Prevention Research (2016) 9, 773-6 [link](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773)
 
 * **Noble R**, Kaltz O, Hochberg ME.
 Peto's paradox and human cancers
