@@ -11,7 +11,7 @@ Robust, Universal Tree Balance Indices.
 
 * **Noble R**, Burri D, Le Sueur C, Lemant J, Viossat Y, Kather JN, Beerenwinkel N.
 Spatial structure governs the mode of tumour evolution.
-Nature Ecology &amp; Evolution (accepted) [link to preprint](https://www.biorxiv.org/content/10.1101/586735v1)
+Nature Ecology &amp; Evolution (2021) [link](https://www.nature.com/articles/s41559-021-01615-9)
 
 * Kuosmanen T, Cairns J, **Noble R**, Beerenwinkel N, Mononen T, Mustonen V.
 Drug-induced resistance evolution necessitates less aggressive treatment.
@@ -21,7 +21,7 @@ PLoS Computational Biology (2021) [link](https://journals.plos.org/ploscompbiol/
 Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.
 Blood (2021) [link](https://doi.org/10.1182/blood.2021010986)
 
-* **Noble R**, Walther V, Roumestand C, Hibner U, Hochberg ME, Lassus P.
+* **Noble R**, Walther V, Roumestand C, Hochberg ME, Hibner U, Lassus P.
 Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.
 Frontiers Ecology &amp; Evolution (2021) [link](https://doi.org/10.3389/fevo.2021.675638)
 
