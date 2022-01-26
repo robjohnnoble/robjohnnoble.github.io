@@ -54,7 +54,7 @@ Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustave
 
 ### References:
 
-1. Mosca, Hermange, Tisserand & Noble *et al.* [Predicting the long-term response of IFN$\alpha$ in myeloproliferative neoplasms](https://doi.org/10.1182/blood.2021010986) Blood (2021)
+1. Mosca, Hermange, Tisserand & Noble *et al.* [Predicting the long-term response of IFNα in myeloproliferative neoplasms](https://doi.org/10.1182/blood.2021010986) Blood (2021)
 2. Noble, Burley, Le Sueur & Hochberg. [When, why and how tumour clonal diversity predicts survival.](https://doi.org/10.1111/eva.13057) Evol. Appl. (2020)
 
 ## Evolutionarily-informed cancer therapy
@@ -77,7 +77,7 @@ I have relatedly investigated how public goods cooperation in bacteria depends o
 Building on these results, I am investigating how different tumour architectures and microenvironmental feedbacks result in different optimal strategies. 
 My long-term objective is to design optimal treatment regimens for each tumour type, and ultimately each patient.
 
-Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-nucleaire-de-la-proliferation-cellulaire/) (IGMM, Montpellier) and [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html) (Université Paris Dauphine, Paris).
+Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-nucleaire-de-la-proliferation-cellulaire/) (IGMM, Montpellier), [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html) (Université Paris Dauphine, Paris) and [Ahmet Acar](http://bio.metu.edu.tr/en/faculty/ahmet-acar) (METU, Ankara).
 
 ### References:
 
