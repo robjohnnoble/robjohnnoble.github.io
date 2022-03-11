@@ -35,7 +35,7 @@ The studentship is for 3 years and will provide full coverage of tuition fees (H
 
 Application deadline: 15th April 2022.
 
-Further details and instructions for how to apply are [available on the City website](https://www.city.ac.uk/prospective-students/finance/funding/investigate-cancer-evolution-studentship). Please note that applications must be made through the above website, not via email.
+Further details and instructions for how to apply are [available on the City website](https://www.city.ac.uk/prospective-students/finance/funding/investigate-cancer-evolution-studentship). Please note that applications must be made through the City website, not via email.
 
 ## Other openings
 
