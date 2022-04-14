@@ -7,7 +7,7 @@ author_profile: true
 
 * Lemant J, Le Sueur C, Manojlović V, **Noble RJ**.
 Robust, Universal Tree Balance Indices.
-(submitted) [link to preprint](https://www.biorxiv.org/content/10.1101/2021.08.25.457695v2)
+Systematic Biology (2022) [link](https://doi.org/10.1093/sysbio/syac027)
 
 * **Noble R**, Burri D, Le Sueur C, Lemant J, Viossat Y, Kather JN, Beerenwinkel N.
 Spatial structure governs the mode of tumour evolution.
