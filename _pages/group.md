@@ -23,7 +23,7 @@ redirect_from:
 * **Cécile Le Sueur:** eight-month research internship ETH Zurich (next step: PhD at EMBL)
 * **John Burley:** first-year MEME MSc project (next step: PhD at Brown University)
 
-## openings
+## Openings
 
 I welcome enquiries from potential PhD students who are interested in pursuing projects aligned with my [research themes](research.md). PhD candidates should have (or will soon have) a good honours degree in mathematics, physics, computational biology or another scientific discipline that has equipped them with strong analytical skills, and who are enthusiastic about applying those skills to answering important biological and clinical questions. Demonstrated mathematical modelling capability, relevant biological knowledge, and programming experience (e.g. in C, Python or Matlab) are highly desirable.
 
