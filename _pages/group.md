@@ -14,14 +14,15 @@ redirect_from:
 
 * **Ves Manojlović:** PhD student developing new ways to infer and categorise tumour evolutionary modes
 * **Blair Colyer:** PhD student investigating cancer adaptive therapy
+* **Srishti Patil:** final-year master's student investigating cancer adaptive therapy
 
 ## Former mentees
 
 * **Alexander Stein:** second-year MSc thesis ETH Zurich (next step: PhD at QMUL)
-* **Jeanne Lemant:** second-year MSc thesis ETH Zurich (next step: PhD at University of Basel)
-* **Dominik Burri:** second-year MSc thesis ETH Zurich (next step: PhD at University of Basel)
-* **Cécile Le Sueur:** eight-month research internship ETH Zurich (next step: PhD at EMBL)
-* **John Burley:** first-year MEME MSc project (next step: PhD at Brown University)
+* **Jeanne Lemant:** second-year MSc thesis ETH Zurich; coauthored two articles with the group (next step: PhD at University of Basel)
+* **Dominik Burri:** second-year MSc thesis ETH Zurich; coauthored one article with the group (next step: PhD at University of Basel)
+* **Cécile Le Sueur:** eight-month research internship ETH Zurich; coauthored four articles with the group (next step: PhD at EMBL)
+* **John Burley:** first-year MEME MSc project; coauthored one article with the group (next step: PhD at Brown University)
 
 ## Openings
 
