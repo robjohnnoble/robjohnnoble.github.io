@@ -15,6 +15,7 @@ redirect_from:
 * **Ves Manojlović:** PhD student developing new ways to infer and categorise tumour evolutionary modes
 * **Blair Colyer:** PhD student investigating cancer adaptive therapy
 * **Srishti Patil:** final-year master's student investigating cancer adaptive therapy
+* **Maciek Bak:** postdoc developing computational models of tumour evolution
 
 ## Former mentees
 
