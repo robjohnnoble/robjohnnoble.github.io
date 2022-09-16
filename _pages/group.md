@@ -12,7 +12,7 @@ redirect_from:
 
 ## Group members
 
-* **Kim Verity** PhD student working on spatial mathematical models of tumour evolution
+* **Kim Verity:** PhD student working on spatial mathematical models of tumour evolution
 * **Ves Manojlović:** PhD student developing new ways to infer and categorise tumour evolutionary modes
 * **Blair Colyer:** PhD student investigating cancer adaptive therapy
 * **Srishti Patil:** final-year master's student investigating cancer adaptive therapy
