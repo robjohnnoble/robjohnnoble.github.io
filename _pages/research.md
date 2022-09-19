@@ -54,7 +54,7 @@ Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustave
 
 ### References:
 
-1. Mosca, Hermange, Tisserand & Noble *et al.* [Predicting the long-term response of IFNα in myeloproliferative neoplasms](https://doi.org/10.1182/blood.2021010986) Blood (2021)
+1. Mosca, Hermange, Tisserand & Noble *et al.* [Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms](https://doi.org/10.1182/blood.2021010986) Blood (2021)
 2. Noble, Burley, Le Sueur & Hochberg. [When, why and how tumour clonal diversity predicts survival.](https://doi.org/10.1111/eva.13057) Evol. Appl. (2020)
 
 ## Evolutionarily-informed cancer therapy
