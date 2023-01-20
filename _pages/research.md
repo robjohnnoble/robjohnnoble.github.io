@@ -23,9 +23,9 @@ Yet while rich data sets are rapidly accumulating, we still have little understa
   <figcaption>The mode and predictability of intra-tumour evoluion, Sanger Institute seminar 2018, drawn by <a href = "https://twitter.com/ATJCagan">Alex Cagan</a></figcaption>
 </figure>
 
-I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework. 
-By parametrizing this model using information derived from histopathological image analysis, I have shown that differences in tumour architecture can explain the variety of evolutionary modes observed in human cancers, including four archetypes [1].
-In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism mediated by paracrine factors [2]. I have also developed new indices for comparing and classifying evolutionary modes [3].
+I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework [1]. 
+By parametrizing this model using information derived from histopathological image analysis, I have shown that differences in tumour architecture can explain the variety of evolutionary modes observed in human cancers, including four archetypes [2].
+In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism mediated by paracrine factors [3]. I have also developed new indices for comparing and classifying evolutionary modes [4].
 
 I am extending my modelling framework towards a general systematic understanding of somatic evolution.
 To test predictions and refine research questions, I will continue to use molecular data, in collaboration with bioinformaticians, experts in histopathological image analysis, and specialists in multi-region sequencing of tumours and heathy tissue.
@@ -34,9 +34,10 @@ Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH Universit
 
 ### References:
 
-1. Noble *et al.* [Spatial structure governs the mode of tumour evolution.](https://www.nature.com/articles/s41559-021-01615-9) Nat. Ecol. Evol. (2021)
-2. Noble *et al.* [Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.](https://doi.org/10.3389/fevo.2021.675638) Front. Ecol. Evol. (2021)
-3. Lemant *et al.* [Robust, Universal Tree Balance Indices](https://doi.org/10.1093/sysbio/syac027) Syst. Biol. (2022)
+1. Bak *et al.* [Warlock: an automated computational workflow for simulating spatially structured tumour evolution.](https://arxiv.org/abs/2301.07808) arXiv (2023)
+2. Noble *et al.* [Spatial structure governs the mode of tumour evolution.](https://www.nature.com/articles/s41559-021-01615-9) Nat. Ecol. Evol. (2021)
+3. Noble *et al.* [Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.](https://doi.org/10.3389/fevo.2021.675638) Front. Ecol. Evol. (2021)
+4. Lemant *et al.* [Robust, Universal Tree Balance Indices](https://doi.org/10.1093/sysbio/syac027) Syst. Biol. (2022)
 
 ## Forecasting tumour evolution
 
