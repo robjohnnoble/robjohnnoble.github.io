@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I use mathematical and computational models to investigate the evolution and ecology of cancer, in collaboration with experimental biologists and clinicians.
+I use data-driven mathematical and computational models to investigate the evolution and ecology of cancer, in collaboration with experimental biologists and clinicians.
 
-I am establishing a mathematical oncology group at [City, University of London](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/mathematics) focussed on four [research themes](research.md):
+I lead a mathematical oncology group at [City, University of London](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/mathematics) focussed on four [research themes](research.md):
 * Pursuing a systematic understanding of somatic evolution;
 * Developing methods for patient-specific tumour progression forecasting;
 * Devising treatment strategies that optimally manipulate tumour evolutionary dynamics;
@@ -18,7 +18,7 @@ I am establishing a mathematical oncology group at [City, University of London](
 
 Whereas these four themes pertain to distinct applications, an evolutionary perspective reveals them to be fundamentally connected. A common thread in my research is investigating how aspects of ecology shape evolutionary dynamics. My overarching vision is to unite complementary lines of enquiry across biological scales to establish general principles of cancer evolution.
 
-The methods I use to pursue these aims include agent-based models, analysis of dynamical systems, stochastic processes, matrix population models, and Bayesian data analysis.
+The methods I use to pursue these aims include agent-based models, analysis of dynamical systems, stochastic processes, and Bayesian data analysis.
 
 ## Software and blogging
 
