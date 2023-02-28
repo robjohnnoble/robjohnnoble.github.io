@@ -18,6 +18,13 @@ redirect_from:
 * **Srishti Patil:** final-year master's student investigating cancer adaptive therapy
 * **Maciek Bak:** postdoc developing computational models of tumour evolution
 
+<figure>
+  <a href="/images/GroupPhotoWithBlairSmall.jpg">
+  <img src="/images/GroupPhotoWithBlairSmall.jpg" alt = "Group photo" />
+    </a>
+  <figcaption>Group photo on a trip to the Science Museum in late 2022</a></figcaption>
+</figure>
+
 ## Former mentees
 
 * **Alexander Stein:** second-year MSc thesis ETH Zurich (next step: PhD at QMUL)
