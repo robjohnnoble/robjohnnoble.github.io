@@ -12,18 +12,18 @@ redirect_from:
 
 ## Group members
 
+<figure>
+  <a href="/images/GroupPhotoWithBlairSmall.jpg">
+  <img src="/images/GroupPhotoWithBlairSmall.jpg" alt = "Group photo" />
+    </a>
+  <figcaption>Group photo on a trip to the Science Museum in late 2022</figcaption>
+</figure>
+
 * **Kim Verity:** PhD student working on spatial mathematical models of tumour evolution
 * **Ves Manojlović:** PhD student developing new ways to infer and categorise tumour evolutionary modes
 * **Blair Colyer:** PhD student investigating cancer adaptive therapy
 * **Srishti Patil:** final-year master's student investigating cancer adaptive therapy
 * **Maciek Bak:** postdoc developing computational models of tumour evolution
-
-<figure>
-  <a href="/images/GroupPhotoWithBlairSmall.jpg">
-  <img src="/images/GroupPhotoWithBlairSmall.jpg" alt = "Group photo" />
-    </a>
-  <figcaption>Group photo on a trip to the Science Museum in late 2022</a></figcaption>
-</figure>
 
 ## Former mentees
 
