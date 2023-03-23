@@ -9,9 +9,9 @@ author_profile: true
 [Warlock: an automated computational workflow for simulating spatially structured tumour evolution](https://arxiv.org/abs/2301.07808).<br>
 arXiv (2023)
 
-* West J, Adler F, Gallaher J, Strobl M, ..., **Noble R**, Viossat Y, Basanta D, Anderson ARA.<br>
-[A survey of open questions in adaptive therapy: bridging mathematics and clinical translation](https://arxiv.org/abs/2210.12062).<br>
-arXiv (2022)
+* West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Roberson-Tessi M, Kim E, **Noble R**, Viossat Y, Basanta D, Anderson ARA.<br>
+[A survey of open questions in adaptive therapy: bridging mathematics and clinical translation](https://elifesciences.org/articles/84263).<br>
+eLife (2023)
 
 * Lemant J, Le Sueur C, Manojlović V, **Noble RJ**.<br>
 [Robust, Universal Tree Balance Indices](https://doi.org/10.1093/sysbio/syac027).<br>
