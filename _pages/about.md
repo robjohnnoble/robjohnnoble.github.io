@@ -24,5 +24,7 @@ The methods I use to pursue these aims include agent-based models, analysis of d
 
 I created and maintain the ggmuller R package [ggmuller](https://CRAN.R-project.org/package=ggmuller) for plotting evolutionary dynamics and the [demon](https://github.com/robjohnnoble/demon_model) tumour evolution model, which can be run using the [warlock](https://doi.org/10.5281/zenodo.7435093) workflow.
 
-I blog about science at [These few lines](https://thesefewlines.wordpress.com/).
+I (used to, before having kids) blog about science at [These few lines](https://thesefewlines.wordpress.com/).
+
+My Mastodon profile is <a rel="me" href="https://ecoevo.social/@robjohnnoble">ecoevo.social/@robjohnnoble</a>.
 
