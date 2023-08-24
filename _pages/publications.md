@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Noble R**<br>
+[Better tree shape indices](https://www.biorxiv.org/content/10.1101/2023.07.17.549219).<br>
+bioRxiv (2023)
+
 * Bak M, Colyer B, Manojlović V, **Noble R**.<br>
 [Warlock: an automated computational workflow for simulating spatially structured tumour evolution](https://arxiv.org/abs/2301.07808).<br>
 arXiv (2023)
