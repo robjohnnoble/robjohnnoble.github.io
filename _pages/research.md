@@ -37,8 +37,8 @@ Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH Universit
 1. Bak *et al.* [Warlock: an automated computational workflow for simulating spatially structured tumour evolution.](https://arxiv.org/abs/2301.07808) arXiv (2023)
 2. Noble *et al.* [Spatial structure governs the mode of tumour evolution.](https://www.nature.com/articles/s41559-021-01615-9) Nat. Ecol. Evol. (2021)
 3. Noble *et al.* [Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.](https://doi.org/10.3389/fevo.2021.675638) Front. Ecol. Evol. (2021)
-4. Lemant *et al.* [Robust, Universal Tree Balance Indices](https://doi.org/10.1093/sysbio/syac027) Syst. Biol. (2022)
-5. Noble. [Better tree shape indices](https://www.biorxiv.org/content/10.1101/2023.07.17.549219) bioRxiv (2023)
+4. Lemant *et al.* [Robust, universal tree balance indices.](https://doi.org/10.1093/sysbio/syac027) Syst. Biol. (2022)
+5. Noble. [Better tree shape indices.](https://www.biorxiv.org/content/10.1101/2023.07.17.549219) bioRxiv (2023)
 
 ## Forecasting tumour evolution
 
@@ -56,7 +56,7 @@ Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustave
 
 ### References:
 
-1. Mosca, Hermange, Tisserand & Noble *et al.* [Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms](https://doi.org/10.1182/blood.2021010986) Blood (2021)
+1. Mosca, Hermange, Tisserand & Noble *et al.* [Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.](https://doi.org/10.1182/blood.2021010986) Blood (2021)
 2. Noble, Burley, Le Sueur & Hochberg. [When, why and how tumour clonal diversity predicts survival.](https://doi.org/10.1111/eva.13057) Evol. Appl. (2020)
 
 ## Evolutionarily-informed cancer therapy
