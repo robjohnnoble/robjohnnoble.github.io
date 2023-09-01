@@ -22,7 +22,7 @@ redirect_from:
 * **Kim Verity:** PhD student working on spatial mathematical models of tumour evolution
 * **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes
 * **[Blair Colyer](https://www.researchgate.net/scientific-contributions/Blair-Colyer-2241509516):** PhD student investigating cancer adaptive therapy
-* **Srishti Patil:** final-year master's student investigating cancer adaptive therapy
+* **Srishti Patil:** final-year master's student investigating cancer extincition therapy
 * **[Maciek Bąk](https://scholar.google.com/citations?user=i-aMGygAAAAJ):** postdoc developing computational models of tumour evolution
 
 ## Former mentees
