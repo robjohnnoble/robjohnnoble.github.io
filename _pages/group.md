@@ -20,18 +20,18 @@ redirect_from:
 </figure>
 
 * **Kim Verity:** PhD student working on spatial mathematical models of tumour evolution
-* **Ves Manojlović:** PhD student developing new ways to infer and categorise tumour evolutionary modes
-* **Blair Colyer:** PhD student investigating cancer adaptive therapy
+* **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes
+* **[Blair Colyer](https://www.researchgate.net/scientific-contributions/Blair-Colyer-2241509516):** PhD student investigating cancer adaptive therapy
 * **Srishti Patil:** final-year master's student investigating cancer adaptive therapy
-* **Maciek Bak:** postdoc developing computational models of tumour evolution
+* **[Maciek Bąk](https://scholar.google.com/citations?user=i-aMGygAAAAJ):** postdoc developing computational models of tumour evolution
 
 ## Former mentees
 
-* **Alexander Stein:** second-year MSc thesis ETH Zurich (next step: PhD at QMUL)
-* **Jeanne Lemant:** second-year MSc thesis ETH Zurich; coauthored two articles with the group (next step: PhD at University of Basel)
-* **Dominik Burri:** second-year MSc thesis ETH Zurich; coauthored one article with the group (next step: PhD at University of Basel)
-* **Cécile Le Sueur:** eight-month research internship ETH Zurich; coauthored four articles with the group (next step: PhD at EMBL)
-* **John Burley:** first-year MEME MSc project; coauthored one article with the group (next step: PhD at Brown University)
+* **[Alexander Stein](https://scholar.google.com/citations?user=ADDcwf0AAAAJ):** second-year MSc thesis ETH Zurich (next step: PhD at QMUL)
+* **[Jeanne Lemant](https://www.researchgate.net/scientific-contributions/Jeanne-Lemant-2200242678):** second-year MSc thesis ETH Zurich; coauthored two articles with the group (next step: PhD at University of Basel)
+* **[Dominik Burri](https://www.researchgate.net/scientific-contributions/Dominik-Burri-2195553285):** second-year MSc thesis ETH Zurich; coauthored one article with the group (next step: PhD at University of Basel)
+* **[Cécile Le Sueur](https://scholar.google.com/citations?user=urov08MAAAAJ):** eight-month research internship ETH Zurich; coauthored four articles with the group (next step: PhD at EMBL)
+* **[John Burley](https://scholar.google.com/citations?user=K-Fpn1YAAAAJ):** first-year MEME MSc project; coauthored one article with the group (next step: PhD at Brown University, then a postdoc at The Australian National University)
 
 ## Openings
 
