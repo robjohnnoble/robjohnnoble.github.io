@@ -5,8 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Colyer B, Bak M, Basanta D, **Noble R**.<br>
+[A seven-step guide to spatial, agent-based modelling of tumour evolution](https://arxiv.org/abs/2311.03569).<br>
+arXiv (2023)
+
 * **Noble R**<br>
-[Better tree shape indices](https://www.biorxiv.org/content/10.1101/2023.07.17.549219).<br>
+[A new universal system of tree shape indices](https://www.biorxiv.org/content/10.1101/2023.07.17.549219).<br>
 bioRxiv (2023)
 
 * Bak M, Colyer B, Manojlović V, **Noble R**.<br>
