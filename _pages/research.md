@@ -38,7 +38,7 @@ Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH Universit
 2. Noble *et al.* [Spatial structure governs the mode of tumour evolution.](https://www.nature.com/articles/s41559-021-01615-9) Nat. Ecol. Evol. (2021)
 3. Noble *et al.* [Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.](https://doi.org/10.3389/fevo.2021.675638) Front. Ecol. Evol. (2021)
 4. Lemant *et al.* [Robust, universal tree balance indices.](https://doi.org/10.1093/sysbio/syac027) Syst. Biol. (2022)
-5. Noble. [Better tree shape indices.](https://www.biorxiv.org/content/10.1101/2023.07.17.549219) bioRxiv (2023)
+5. Noble. [A new universal system of tree shape indices.](https://www.biorxiv.org/content/10.1101/2023.07.17.549219) bioRxiv (2023)
 
 ## Forecasting tumour evolution
 
