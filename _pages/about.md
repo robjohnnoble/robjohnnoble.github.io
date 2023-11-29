@@ -26,5 +26,5 @@ I created and maintain the ggmuller R package [ggmuller](https://CRAN.R-project.
 
 I (used to, before having kids) blog about science at [These few lines](https://thesefewlines.wordpress.com/).
 
-My Mastodon profile is <a rel="me" href="https://ecoevo.social/@robjohnnoble">ecoevo.social/@robjohnnoble</a>.
+My Mastodon profile is <a rel="me" href="https://ecoevo.social/@robjohnnoble">ecoevo.social/@robjohnnoble</a>. On Bluesky I'm <a rel="me" href="https://bsky.app/profile/robjohnnoble.bsky.social">@robjohnnoble.bsky.social</a>.
 
