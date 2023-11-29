@@ -19,15 +19,15 @@ redirect_from:
   <figcaption>Group photo on a trip to the Science Museum in late 2022</figcaption>
 </figure>
 
-* **Kim Verity:** PhD student working on spatial mathematical models of tumour evolution
+* **[Kim Verity](https://orcid.org/0009-0009-9084-9158):** PhD student working on spatial mathematical models of tumour evolution
 * **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes
 * **[Blair Colyer](https://www.researchgate.net/scientific-contributions/Blair-Colyer-2241509516):** PhD student investigating cancer adaptive therapy
-* **Srishti Patil:** final-year master's student investigating cancer extincition therapy
+* **[Srishti Patil](https://orcid.org/0000-0001-8150-8831):** final-year master's student investigating cancer extincition therapy
 * **[Maciek Bąk](https://scholar.google.com/citations?user=i-aMGygAAAAJ):** postdoc developing computational models of tumour evolution
 
 ## Former mentees
 
-* **[Alexander Stein](https://scholar.google.com/citations?user=ADDcwf0AAAAJ):** second-year MSc thesis ETH Zurich (next step: PhD at QMUL)
+* **[Alexander Stein](https://scholar.google.com/citations?user=ADDcwf0AAAAJ):** second-year MSc thesis ETH Zurich; coauthored one article with the group (next step: PhD at QMUL)
 * **[Jeanne Lemant](https://www.researchgate.net/scientific-contributions/Jeanne-Lemant-2200242678):** second-year MSc thesis ETH Zurich; coauthored two articles with the group (next step: PhD at University of Basel)
 * **[Dominik Burri](https://www.researchgate.net/scientific-contributions/Dominik-Burri-2195553285):** second-year MSc thesis ETH Zurich; coauthored one article with the group (next step: PhD at University of Basel)
 * **[Cécile Le Sueur](https://scholar.google.com/citations?user=urov08MAAAAJ):** eight-month research internship ETH Zurich; coauthored four articles with the group (next step: PhD at EMBL)
