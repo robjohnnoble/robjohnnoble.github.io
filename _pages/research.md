@@ -27,7 +27,7 @@ I have created a sophisticated spatial computational model of tumour population 
 By parametrizing this model using information derived from histopathological image analysis, I have shown that differences in tumour architecture can explain the variety of evolutionary modes observed in human cancers, including four archetypes [2].
 In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism mediated by paracrine factors [3]. I have also developed new indices for comparing and classifying evolutionary modes, and more generally for describing the shape of any rooted tree [4,5].
 
-I am extending my modelling framework towards a general systematic understanding of somatic evolution [6].
+I am extending my modelling framework towards a general systematic understanding of somatic evolution.
 To test predictions and refine research questions, I will continue to use molecular data, in collaboration with bioinformaticians, experts in histopathological image analysis, and specialists in multi-region sequencing of tumours and heathy tissue.
 
 Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH University Hospital, Aachen) and [Darryl Shibata](https://keck.usc.edu/faculty-search/darryl-shibata/) (USC, Los Angeles).
