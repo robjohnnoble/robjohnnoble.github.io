@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Colyer B, Bak M, Basanta D, **Noble R**.<br>
+[A seven-step guide to spatial, agent-based modelling of tumour evolution](https://onlinelibrary.wiley.com/doi/10.1111/eva.13687).<br>
+Evolutionary Applications (2024)
+
 * Stein A, Kizhuttil R, Bak M, **Noble RJ**.<br>
 [Selective sweep probabilities in spatially expanding populations](https://doi.org/10.1101/2023.11.27.568915).<br>
 bioRxiv (2023)
@@ -12,10 +16,6 @@ bioRxiv (2023)
 * Patil S, Viossat Y, **Noble R**.<br>
 [Preventing evolutionary rescue in cancer](https://doi.org/10.1101/2023.11.22.568336).<br>
 bioRxiv (2023)
-
-* Colyer B, Bak M, Basanta D, **Noble R**.<br>
-[A seven-step guide to spatial, agent-based modelling of tumour evolution](https://arxiv.org/abs/2311.03569).<br>
-arXiv (2023)
 
 * **Noble R**, Verity K.<br>
 [A new universal system of tree shape indices](https://www.biorxiv.org/content/10.1101/2023.07.17.549219).<br>
