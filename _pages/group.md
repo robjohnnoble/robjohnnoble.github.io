@@ -19,7 +19,7 @@ redirect_from:
   <figcaption>Group photo on a trip to the Science Museum in late 2022</figcaption>
 </figure>
 
-* **[Alex Chitiga]:** PhD student applying new tree shape indices to understand the evolution of tumours and species
+* **Alex Chitiga:** PhD student applying new tree shape indices to understand the evolution of tumours and species
 * **[Kim Verity](https://orcid.org/0009-0009-9084-9158):** PhD student investigating how to characterise and forecast tumour evolution
 * **[Blair Colyer](https://www.researchgate.net/scientific-contributions/Blair-Colyer-2241509516):** PhD student investigating cancer adaptive therapy
 * **[Carissa Mayo](https://www.linkedin.com/in/carissa-mayo):** External master's student modelling transmissible cancers in bivalves
