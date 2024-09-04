@@ -28,7 +28,7 @@ redirect_from:
 ## Former mentees
 
 * **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes (next step: management consulting)
-* **[Ramanarayanan Kizhuttil](https://orcid.org/0009-0002-6824-4928):** summer intern project student; coauthored one article with the group
+* **[Ramanarayanan Kizhuttil](https://orcid.org/0009-0002-6824-4928):** summer intern project student; coauthored one article with the group (next step: PhD at UCSD)
 * **[Srishti Patil](https://orcid.org/0000-0001-8150-8831):** final-year master's student investigating cancer extincition therapy; coauthored one article with the group (next step: PhD at EMBL)
 * **[Maciek Bąk](https://scholar.google.com/citations?user=i-aMGygAAAAJ):** postdoc developing computational models of tumour evolution; coauthored three articles with the group
 * **[Alexander Stein](https://scholar.google.com/citations?user=ADDcwf0AAAAJ):** second-year MSc thesis ETH Zurich; coauthored one article with the group (next step: PhD at QMUL)
