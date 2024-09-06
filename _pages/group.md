@@ -27,7 +27,7 @@ redirect_from:
 
 ## Former mentees
 
-* **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes (next step: management consulting)
+* **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes; coauthored two articles with the group (next step: management consulting)
 * **[Ramanarayanan Kizhuttil](https://orcid.org/0009-0002-6824-4928):** summer intern project student; coauthored one article with the group (next step: PhD at UCSD)
 * **[Srishti Patil](https://orcid.org/0000-0001-8150-8831):** final-year master's student investigating cancer extincition therapy; coauthored one article with the group (next step: PhD at EMBL)
 * **[Maciek Bąk](https://scholar.google.com/citations?user=i-aMGygAAAAJ):** postdoc developing computational models of tumour evolution; coauthored three articles with the group
@@ -35,11 +35,13 @@ redirect_from:
 * **[Jeanne Lemant](https://www.researchgate.net/scientific-contributions/Jeanne-Lemant-2200242678):** second-year MSc thesis ETH Zurich; coauthored two articles with the group (next step: PhD at University of Basel)
 * **[Dominik Burri](https://www.researchgate.net/scientific-contributions/Dominik-Burri-2195553285):** second-year MSc thesis ETH Zurich; coauthored one article with the group (next step: PhD at University of Basel)
 * **[Cécile Le Sueur](https://scholar.google.com/citations?user=urov08MAAAAJ):** eight-month research internship ETH Zurich; coauthored four articles with the group (next step: PhD at EMBL)
-* **[John Burley](https://scholar.google.com/citations?user=K-Fpn1YAAAAJ):** first-year MEME MSc project; coauthored one article with the group (next step: PhD at Brown University, then a postdoc at The Australian National University)
+* **[John Burley](https://scholar.google.com/citations?user=K-Fpn1YAAAAJ):** first-year MEME MSc project; coauthored one article with the group (next step: PhD at Brown University, then a postdoc at ANU)
 
 ## Openings
 
 I welcome enquiries from potential PhD students who are interested in pursuing projects aligned with my [research themes](research.md). PhD candidates should have (or will soon have) a good honours degree in mathematics, physics, computational biology or another scientific discipline that has equipped them with strong analytical skills, and who are enthusiastic about applying those skills to answering important biological and clinical questions. Demonstrated mathematical modelling capability, relevant biological knowledge, and programming experience (e.g. in C, Python or Matlab) are highly desirable.
+
+I'm keen to hear from well-qualified external graduate or undergraduate students looking for supervision or wanting to contribute to our ongoing research projects.
 
 I also welcome enquiries from potential postdocs who are interested in writing fellowship applications with me.
 
