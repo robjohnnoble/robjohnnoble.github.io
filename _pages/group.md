@@ -19,15 +19,16 @@ redirect_from:
   <figcaption>Group photo on a trip to the Science Museum in late 2022</figcaption>
 </figure>
 
-* **Alex Chitiga:** PhD student applying new tree shape indices to understand the evolution of tumours and species
+* **Kate Bostock** PhD student developing new ways to model spatially structured tumour evolution
+* **Alex Chitiga:** PhD student applying new tree shape indices to understand the evolution of tumours and of species
 * **[Kim Verity](https://orcid.org/0009-0009-9084-9158):** PhD student investigating how to characterise and forecast tumour evolution
-* **[Blair Colyer](https://www.researchgate.net/scientific-contributions/Blair-Colyer-2241509516):** PhD student investigating cancer adaptive therapy
+* **[Blair Colyer](https://www.researchgate.net/scientific-contributions/Blair-Colyer-2241509516):** PhD student investigating new cancer treatment strategies
 * **[Carissa Mayo](https://www.linkedin.com/in/carissa-mayo):** External master's student modelling transmissible cancers in bivalves
 * **[Armaan Ahmed](https://www.armaanahmed.me/):** External undergraduate student working on tree shape indices and cancer extincition therapy
 
 ## Former mentees
 
-* **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes; coauthored two articles with the group (next step: management consulting)
+* **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes; coauthored two articles with the group (next step: postdoc at the University of Cambridge)
 * **[Ramanarayanan Kizhuttil](https://orcid.org/0009-0002-6824-4928):** summer intern project student; coauthored one article with the group (next step: PhD at UCSD)
 * **[Srishti Patil](https://orcid.org/0000-0001-8150-8831):** final-year master's student investigating cancer extincition therapy; coauthored one article with the group (next step: PhD at EMBL)
 * **[Maciek Bąk](https://scholar.google.com/citations?user=i-aMGygAAAAJ):** postdoc developing computational models of tumour evolution; coauthored three articles with the group
