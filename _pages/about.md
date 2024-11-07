@@ -22,7 +22,9 @@ The methods I use to pursue these aims include agent-based models, analysis of d
 
 ## Software and blogging
 
-I created and maintain the ggmuller R package [ggmuller](https://CRAN.R-project.org/package=ggmuller) for plotting evolutionary dynamics and the [demon](https://github.com/robjohnnoble/demon_model) tumour evolution model, which can be run using the [warlock](https://doi.org/10.5281/zenodo.7435093) workflow.
+I created and maintain the [ggmuller](https://CRAN.R-project.org/package=ggmuller) R package for plotting evolutionary dynamics and the [demon](https://github.com/robjohnnoble/demon_model) tumour evolution model, which you can run on your own computer or on an HPC using the [warlock](https://doi.org/10.5281/zenodo.7435093) workflow.
+
+My PhD student Kim Verity created the [RUIindices](https://github.com/kimverity/RUIindices) R package to evaluate tree shape in terms of our robust, universal and interpretable indices.
 
 I (used to, before having kids) blog about science at [These few lines](https://thesefewlines.wordpress.com/).
 
