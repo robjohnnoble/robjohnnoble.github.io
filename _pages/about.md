@@ -10,7 +10,7 @@ redirect_from:
 
 I use data-driven mathematical and computational models to investigate the evolution and ecology of cancer, in collaboration with experimental biologists and clinicians.
 
-I lead a mathematical oncology group at [City St George's, University of London](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/mathematics) focussed on four [research themes](research.md):
+I lead a mathematical oncology group at [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/mathematics-computer-science-engineering/mathematics) focussed on four [research themes](research.md):
 * Pursuing a systematic understanding of somatic evolution;
 * Developing methods for patient-specific tumour progression forecasting;
 * Devising treatment strategies that optimally manipulate tumour evolutionary dynamics;
