@@ -15,7 +15,7 @@ After a first degree in mathematics, I earned my PhD in mathematical biology at 
 
 ## Education and academic employment
 
-* **2020-present: Lecturer then Senior Lecturer in Mathematics at [City St George's, University of London](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/mathematics), UK**  
+* **2020-present: Lecturer then Senior Lecturer in Mathematics at [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/mathematics-computer-science-engineering/mathematics), UK**  
 Mathematical oncology
 * **2018-2020: Postdoctoral researcher (20% contract) with [Hanna Kokko](https://www.ieu.uzh.ch/en/staff/member/kokko_hanna.html) at the University of Zurich, Switzerland**  
 Theoretical ecology, life history theory and the evolution of cancer risk
