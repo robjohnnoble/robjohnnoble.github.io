@@ -25,7 +25,7 @@ Yet while rich data sets are rapidly accumulating, we still have little understa
 
 I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework [1]. 
 By parametrizing this model using information derived from histopathological image analysis, I have shown that differences in tumour architecture can explain the variety of evolutionary modes observed in human cancers, including four archetypes [2].
-In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism mediated by paracrine factors [3]. I have also developed new indices for comparing and classifying evolutionary modes, and more generally for describing the shape of any rooted tree [4,5].
+In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism mediated by paracrine factors [3]. I have also developed new indices for comparing and classifying evolutionary modes, and more generally for describing the shape of any rooted tree [4,5,6].
 
 I am extending my modelling framework towards a general systematic understanding of somatic evolution.
 To test predictions and refine research questions, I will continue to use molecular data, in collaboration with bioinformaticians, experts in histopathological image analysis, and specialists in multi-region sequencing of tumours and heathy tissue.
@@ -39,6 +39,7 @@ Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH Universit
 3. Noble *et al.* [Paracrine behaviors arbitrate parasite-like interactions between tumor subclones.](https://doi.org/10.3389/fevo.2021.675638) Front. Ecol. Evol. (2021)
 4. Lemant *et al.* [Robust, universal tree balance indices.](https://doi.org/10.1093/sysbio/syac027) Syst. Biol. (2022)
 5. Noble & Verity. [A new universal system of tree shape indices.](https://www.biorxiv.org/content/10.1101/2023.07.17.549219) bioRxiv (2023)
+6. Manojlović *et al.* [Expected and minimal values of a universal tree balance index](https://arxiv.org/abs/2507.08615) arXiv (2025)
 
 ## Forecasting tumour evolution
 
