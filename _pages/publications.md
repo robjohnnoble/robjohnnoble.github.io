@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Manojlović V, Ahmed A, Viossat Y, **Noble R**.<br>
+[Expected and minimal values of a universal tree balance index](https://arxiv.org/abs/2507.08615).<br>
+arXiv (2025)
+
 * Colyer B, Bak M, Basanta D, **Noble R**.<br>
 [A seven-step guide to spatial, agent-based modelling of tumour evolution](https://onlinelibrary.wiley.com/doi/10.1111/eva.13687).<br>
 Evolutionary Applications (2024)
