@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Verity K, **Noble R**.<br>
+[Evolutionary tree balance predicts disease-free survival in the TRACERx non-small cell lung cancer cohort](https://doi.org/10.1101/2025.11.22.25340797).<br>
+medRxiv (2025)
+
+* Patil S, Ahmed A, Viossat Y, **Noble R**.<br>
+[Preventing evolutionary rescue in cancer using two-strike therapy](https://doi.org/10.1093/genetics/iyaf255).<br>
+Genetics (2025)
+
 * Manojlović V, Ahmed A, Viossat Y, **Noble R**.<br>
 [Expected and minimal values of a universal tree balance index](https://arxiv.org/abs/2507.08615).<br>
 arXiv (2025)
@@ -15,10 +23,6 @@ Evolutionary Applications (2024)
 
 * Stein A, Kizhuttil R, Bak M, **Noble RJ**.<br>
 [Selective sweep probabilities in spatially expanding populations](https://doi.org/10.1101/2023.11.27.568915).<br>
-bioRxiv (2023)
-
-* Patil S, Viossat Y, **Noble R**.<br>
-[Preventing evolutionary rescue in cancer](https://doi.org/10.1101/2023.11.22.568336).<br>
 bioRxiv (2023)
 
 * **Noble R**, Verity K.<br>
