@@ -90,7 +90,7 @@ Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-n
 
 1. Bacevic & Noble *et al.* [Spatial competition constrains resistance to targeted cancer therapy.](https://www.nature.com/articles/s41467-017-01516-1) Nat. Commun. (2017)
 2. Viossat & Noble. [A theoretical analysis of tumour containment.](https://doi.org/10.1038/s41559-021-01428-w) Nat. Ecol. Evol. (2021)
-3. Patil, Ahmed, Viossat & Noble. [Preventing evolutionary rescue in cancer using two-strike therapy.](https://doi.org/10.1101/2023.11.22.568336)(https://doi.org/10.1093/genetics/iyaf255)) Genetics (2025)
+3. Patil, Ahmed, Viossat & Noble. [Preventing evolutionary rescue in cancer using two-strike therapy.](https://doi.org/10.1093/genetics/iyaf255) Genetics (2025)
 4. Vasse & Noble *et al.* [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.](https://www.pnas.org/content/114/3/546) PNAS (2017)
 
 ## Evolution of cancer risk
