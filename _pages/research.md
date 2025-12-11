@@ -25,7 +25,8 @@ Yet while rich data sets are rapidly accumulating, we still have little understa
 
 I have created a sophisticated spatial computational model of tumour population genetics that can simulate a range of tissue architectures within a common mathematical framework [1]. 
 By parametrizing this model using information derived from histopathological image analysis, I have shown that differences in tumour architecture can explain the variety of evolutionary modes observed in human cancers, including four archetypes [2].
-In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism mediated by paracrine factors [3]. I have also developed new indices for comparing and classifying evolutionary modes, and more generally for describing the shape of any rooted tree [4,5,6].
+In close collaboration with laboratory biologists, I have further investigated ecological interactions between cancer clones including facultative parasitism mediated by paracrine factors [3].
+I have developed new methods for comparing and classifying evolutionary modes, and more generally for describing the shape of any rooted tree [4,5,6]. 
 
 I am extending my modelling framework towards a general systematic understanding of somatic evolution.
 To test predictions and refine research questions, I will continue to use molecular data, in collaboration with bioinformaticians, experts in histopathological image analysis, and specialists in multi-region sequencing of tumours and heathy tissue.
@@ -46,9 +47,10 @@ Collaborators include [Jakob Kather](https://jnkather.github.io) (RWTH Universit
 Accurate methods for predicting whether neoplasms will grow aggressively, how they will initially respond to treatment, and whether and when drug resistance will develop, are lacking. 
 Computational models that account for cancer’s dynamic, evolving nature have enormous, untapped potential to provide more detailed patient-specific forecasts for informing clinical decision making.
 
-Working closely with clinical and experimental oncologists during a four-year clinical trial, I have developed and analyzed a mathematical model of clonal dynamics during interferon-alpha treatment of myeloproliferative neoplasms. By combining my dynamical model with a sophisticated Bayesian inferential method, we have obtained the first estimates of mutated-cell proliferation and differentiation rates in these diseases. The results are of immediate clinical utility as they enable the prediction of treatment response based on dosing schedule, molecular data and patient profile [1]. 
+Working closely with clinical and experimental oncologists during a four-year clinical trial, I have developed and analyzed a mathematical model of clonal dynamics during interferon-alpha treatment of myeloproliferative neoplasms. By combining my dynamical model with a sophisticated Bayesian inferential method, we have obtained the first estimates of mutated-cell proliferation and differentiation rates in these diseases [1]. 
 In the more challenging case of solid tumours, I have used computational modelling to assess when, why and how intratumour heterogeneity can be used to forecast tumour growth rate and clinical progression [2]. 
-This work informs the search for new prognostic biomarkers and contributes to establishing a theoretical foundation for the new field of predictive oncology.
+I have further shown how my new approaches to quantifying the shape of evolutionary trees provide new ways of forecasting clinical outcomes [4].
+This work together informs the search for new prognostic biomarkers and contributes to establishing a theoretical foundation for the new field of predictive oncology.
 
 I am now working towards models that can forecast the evolution of realistically large, heterogeneous tumours. 
 This includes using diffusion approximations and other methods from statistical physics and population genetics to describe how clonal expansion speeds depend on key biological parameters [3], and using machine-learning methods to infer patient-specific parameter values from clinical data.
@@ -60,6 +62,7 @@ Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustave
 1. Mosca, Hermange, Tisserand & Noble *et al.* [Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.](https://doi.org/10.1182/blood.2021010986) Blood (2021)
 2. Noble, Burley, Le Sueur & Hochberg. [When, why and how tumour clonal diversity predicts survival.](https://doi.org/10.1111/eva.13057) Evol. Appl. (2020)
 3. Stein, Kizhuttil, Bak & Noble. [Selective sweep probabilities in spatially expanding populations.](https://doi.org/10.1101/2023.11.27.568915) bioRxiv (2023)
+4. Verity & Noble. [Evolutionary tree balance predicts disease-free survival in the TRACERx non-small cell lung cancer cohort.](https://doi.org/10.1101/2025.11.22.25340797) medRxiv (2025)
 
 ## Evolutionarily-informed cancer therapy
 
@@ -75,19 +78,19 @@ There is no reliable way to predict which strategy will work best for a particul
 </figure>
 
 In collaboration with cancer cell biologists using 3D tumour spheroid models, I have validated an adaptive therapy concept by using computational and mathematical modelling to show how spatial constraints can be exploited to suppress resistance to targeted therapy [1].
-I have further contributed to extending these results towards mathematically rigorous theories of cancer adaptive therapy [2] and extinction therapy [3] that unify and generalizes previous formulations.
+I have further contributed to extending these results towards mathematically rigorous theories of cancer adaptive therapy [2] and multi-strike therapy (also known as extinction therapy) [3] that unify and generalizes previous formulations.
 I have relatedly investigated how public goods cooperation in bacteria depends on ecological antagonisms [4], with potential implications for therapeutic manipulation of ecological interactions, such as in tumours that depend on paracrine growth factors.
 
 Building on these results, I am investigating how different tumour architectures and microenvironmental feedbacks result in different optimal strategies. 
 My long-term objective is to design optimal treatment regimens for each tumour type, and ultimately each patient.
 
-Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-nucleaire-de-la-proliferation-cellulaire/) (IGMM, Montpellier), [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html) (Université Paris Dauphine, Paris) and [Ahmet Acar](http://bio.metu.edu.tr/en/faculty/ahmet-acar) (METU, Ankara).
+Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-nucleaire-de-la-proliferation-cellulaire/) (IGMM, Montpellier) and [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html) (Université Paris Dauphine, Paris).
 
 ### References:
 
 1. Bacevic & Noble *et al.* [Spatial competition constrains resistance to targeted cancer therapy.](https://www.nature.com/articles/s41467-017-01516-1) Nat. Commun. (2017)
 2. Viossat & Noble. [A theoretical analysis of tumour containment.](https://doi.org/10.1038/s41559-021-01428-w) Nat. Ecol. Evol. (2021)
-3. Patil, Viossat & Noble. [Preventing evolutionary rescue in cancer.](https://doi.org/10.1101/2023.11.22.568336) bioRxiv (2023)
+3. Patil, Ahmed, Viossat & Noble. [Preventing evolutionary rescue in cancer using two-strike therapy.](https://doi.org/10.1101/2023.11.22.568336)(https://doi.org/10.1093/genetics/iyaf255)) Genetics (2025)
 4. Vasse & Noble *et al.* [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.](https://www.pnas.org/content/114/3/546) PNAS (2017)
 
 ## Evolution of cancer risk
