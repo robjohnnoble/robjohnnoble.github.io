@@ -5,25 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Stein A, Bostock K, Kizhuttil R, Bak M, **Noble RJ**.<br>
+[Selective sweep probabilities in spatially expanding populations](https://www.nature.com/articles/s41467-026-69363-7).<br>
+Nature Communications (2026)
+
+* Patil S, Ahmed A, Viossat Y, **Noble R**.<br>
+[Preventing evolutionary rescue in cancer using two-strike therapy](https://doi.org/10.1093/genetics/iyaf255).<br>
+Genetics (2026)
+
 * Verity K, **Noble R**.<br>
 [Evolutionary tree balance predicts disease-free survival in the TRACERx non-small cell lung cancer cohort](https://doi.org/10.1101/2025.11.22.25340797).<br>
 medRxiv (2025)
 
-* Patil S, Ahmed A, Viossat Y, **Noble R**.<br>
-[Preventing evolutionary rescue in cancer using two-strike therapy](https://doi.org/10.1093/genetics/iyaf255).<br>
-Genetics (2025)
-
-* Manojlović V, Ahmed A, Viossat Y, **Noble R**.<br>
+* Manojlović V\*, Ahmed A\*, Viossat Y, **Noble R**.<br>
 [Expected and minimal values of a universal tree balance index](https://arxiv.org/abs/2507.08615).<br>
 arXiv (2025)
 
 * Colyer B, Bak M, Basanta D, **Noble R**.<br>
 [A seven-step guide to spatial, agent-based modelling of tumour evolution](https://onlinelibrary.wiley.com/doi/10.1111/eva.13687).<br>
 Evolutionary Applications (2024)
-
-* Stein A, Kizhuttil R, Bak M, **Noble RJ**.<br>
-[Selective sweep probabilities in spatially expanding populations](https://doi.org/10.1101/2023.11.27.568915).<br>
-bioRxiv (2023)
 
 * **Noble R**, Verity K.<br>
 [A new universal system of tree shape indices](https://www.biorxiv.org/content/10.1101/2023.07.17.549219).<br>
@@ -67,43 +67,43 @@ Evolutionary Applications (2020)
 
 * **Noble R\***, Burley JT\*, Le Sueur C, Hochberg ME.<br>
 [When, why and how tumour clonal diversity predicts survival](https://doi.org/10.1111/eva.13057).<br>
-Evolutionary Applications (2020) eva.13057
+Evolutionary Applications (2020)
 
 * Hochberg ME, **Noble R**.<br>
 [A framework for how environment contributes to cancer risk](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12726).<br>
-Ecology Letters (2017) 20, 117-34
+Ecology Letters (2017)
 
 *	Bacevic K\*, **Noble R\***, Soffar A, Ammar OW, Boszonyik B, Prieto S, Vincent C, Hochberg ME, Krasinska L, Fisher D.<br>
 [Spatial competition constrains resistance to targeted cancer therapy](https://www.nature.com/articles/s41467-017-01516-1).<br>
-Nature Communications (2017) 8, 1995
+Nature Communications (2017)
 
 * Vasse M\*, **Noble R\***, Akhmetzhanov AR, Torres-Barceló C, Gurney J, Simon Benateau, Gougat-Barbera C, Kaltz O, Hochberg ME.<br>
 [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*](https://www.pnas.org/content/114/3/546).<br>
-PNAS (2017) 114, 546-51
+PNAS (2017)
 
 * **Noble R**, Kaltz O, Nunney L, Hochberg ME.<br>
 [Overestimating the role of environment in cancers](https://cancerpreventionresearch.aacrjournals.org/content/9/10/773).<br>
-Cancer Prevention Research (2016) 9, 773-6
+Cancer Prevention Research (2016)
 
 * Hochberg ME, **Noble RJ**, Braude S.<br>
 [A hypothesis to explain cancers in confined colonies of naked mole rats](https://doi.org/10.1101/079012).<br>
-bioRxiv (2016) 079012
+bioRxiv (2016)
 
 * **Noble R**, Kaltz O, Hochberg ME.<br>
 [Peto's paradox and human cancers](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0104).<br>
-Phil. Trans. B (2015) 370, 20150104
+Phil. Trans. B (2015)
 
 * **Noble R\***, Christodoulou Z\*, Pinches R, Kyes S, Recker M, Newbold CI.<br>
 [The antigenic switching network of *Plasmodium falciparum* and its implications for the immuno-epidemiology of malaria](https://elifesciences.org/articles/01074).<br>
-eLife (2013) 2013.2:e01074
+eLife (2013)
 
 * Fastman Y, **Noble R**, Recker M, Dzikowski R.<br>
 [Erasing the epigenetic memory and beginning to switch -- the onset of antigenic switching of *var* genes in *Plasmodium falciparum*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034168).<br>
-PLoS ONE (2012) 7, e34168
+PLoS ONE (2012)
 
 * **Noble R**, Recker M.<br>
 [A statistically rigorous method for determining antigenic switching networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039335).<br>
-PLoS ONE (2012) 7, e39335
+PLoS ONE (2012)
 
 (* denotes equal contributions)
 
