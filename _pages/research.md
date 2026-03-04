@@ -61,7 +61,7 @@ Collaborators include [Isabelle Plo and William Vainchenker](https://www.gustave
 
 1. Mosca, Hermange, Tisserand & Noble *et al.* [Inferring the dynamic of mutated hematopoietic stem and progenitor cells induced by IFNα in myeloproliferative neoplasms.](https://doi.org/10.1182/blood.2021010986) Blood (2021)
 2. Noble, Burley, Le Sueur & Hochberg. [When, why and how tumour clonal diversity predicts survival.](https://doi.org/10.1111/eva.13057) Evol. Appl. (2020)
-3. Stein, Kizhuttil, Bak & Noble. [Selective sweep probabilities in spatially expanding populations.](https://doi.org/10.1101/2023.11.27.568915) bioRxiv (2023)
+3. Stein, Bostock, Kizhuttil, Bak & Noble. [Selective sweep probabilities in spatially expanding populations.](https://www.nature.com/articles/s41467-026-69363-7) Nat. Commun. (2026)
 4. Verity & Noble. [Evolutionary tree balance predicts disease-free survival in the TRACERx non-small cell lung cancer cohort.](https://doi.org/10.1101/2025.11.22.25340797) medRxiv (2025)
 
 ## Evolutionarily-informed cancer therapy
@@ -90,7 +90,7 @@ Collaborators include [Daniel Fisher](http://www.igmm.cnrs.fr/en/team/controle-n
 
 1. Bacevic & Noble *et al.* [Spatial competition constrains resistance to targeted cancer therapy.](https://www.nature.com/articles/s41467-017-01516-1) Nat. Commun. (2017)
 2. Viossat & Noble. [A theoretical analysis of tumour containment.](https://doi.org/10.1038/s41559-021-01428-w) Nat. Ecol. Evol. (2021)
-3. Patil, Ahmed, Viossat & Noble. [Preventing evolutionary rescue in cancer using two-strike therapy.](https://doi.org/10.1093/genetics/iyaf255) Genetics (2025)
+3. Patil, Ahmed, Viossat & Noble. [Preventing evolutionary rescue in cancer using two-strike therapy.](https://doi.org/10.1093/genetics/iyaf255) Genetics (2026)
 4. Vasse & Noble *et al.* [Antibiotic stress selects against cooperation in the pathogenic bacterium *Pseudomonas aeruginosa*.](https://www.pnas.org/content/114/3/546) PNAS (2017)
 
 ## Evolution of cancer risk
