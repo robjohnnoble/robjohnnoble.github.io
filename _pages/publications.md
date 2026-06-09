@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Manojlović V, Gabbutt C, Shibata D, **Noble RJ**.<br>
+[Fluctuating DNA methylation sites encode colorectal tumour growth history](https://www.biorxiv.org/content/10.64898/2026.06.04.730217).<br>
+bioRxiv (2026)
+
+* Thomas F, Dujon AM, Marusyk A, DeGregori J, ..., **Noble RJ**, Nedelcu AM, Gatenby R.<br>
+[When effective anticancer therapies are, in fact, destabilizing the tumor’s Group Phenotypic Composition](https://www.nature.com/articles/s41698-026-01536-5).<br>
+npj Precision Oncology (2026)
+
 * Stein A, Bostock K, Kizhuttil R, Bak M, **Noble RJ**.<br>
 [Selective sweep probabilities in spatially expanding populations](https://www.nature.com/articles/s41467-026-69363-7).<br>
 Nature Communications (2026)
