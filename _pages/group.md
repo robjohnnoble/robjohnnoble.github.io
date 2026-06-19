@@ -21,12 +21,12 @@ redirect_from:
 
 * **[Kate Bostock](https://orcid.org/0009-0000-0147-4927)** PhD student developing new ways to model spatially structured tumour evolution
 * **Alex Chitiga:** PhD student applying new tree shape indices to understand the evolution of tumours, pathogens, and species
-* **[Kim Verity](https://orcid.org/0009-0009-9084-9158):** PhD student investigating the evolutionary modes of species and of tumours
-* **[Carissa Mayo](https://www.linkedin.com/in/carissa-mayo):** External master's student modelling transmissible cancers in bivalves
-* **[Armaan Ahmed](https://www.armaanahmed.me/):** External undergraduate student working on tree shape indices and cancer extincition therapy
 
 ## Former mentees
 
+* **[Kim Verity](https://orcid.org/0009-0009-9084-9158):** PhD student investigating the evolutionary modes of species and of tumours (next step: joining a biotech startup)
+* **[Carissa Mayo](https://www.linkedin.com/in/carissa-mayo):** External master's student modelling transmissible cancers in bivalves
+* **[Armaan Ahmed](https://www.armaanahmed.me/):** External undergraduate student working on tree shape indices and cancer extinction therapy
 * **[Blair Colyer](https://www.researchgate.net/scientific-contributions/Blair-Colyer-2241509516):** PhD student investigating new cancer treatment strategies
 * **[Ves Manojlović](https://www.researchgate.net/scientific-contributions/Veselin-Manojlovic-2200251561):** PhD student developing new ways to infer and categorise tumour evolutionary modes (next step: postdoc at the University of Cambridge)
 * **[Ramanarayanan Kizhuttil](https://orcid.org/0009-0002-6824-4928):** summer intern project student; coauthored one article with the group (next step: PhD at UCSD)
