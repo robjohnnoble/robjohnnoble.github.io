@@ -20,7 +20,9 @@ redirect_from:
 </figure>
 
 * **[Kate Bostock](https://orcid.org/0009-0000-0147-4927)** PhD student developing new ways to model spatially structured tumour evolution
-* **Alex Chitiga:** PhD student applying new tree shape indices to understand the evolution of tumours, pathogens, and species
+* **Alex Chitiga:** MPhil student applying new tree shape indices to understand the evolution of tumours, pathogens, and species
+* **Uliana Makhno:** Master's student investigating trends in cancer incidence
+* **Kenan Cetin Smith:** Master's student modelling bipolar androgen therapy in prostate cancer
 
 ## Former mentees
 
